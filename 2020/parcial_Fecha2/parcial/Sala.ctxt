@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Sala()
+comment1.params=p
+comment1.target=boolean\ addPaciente(Paciente)
+comment2.params=p
+comment2.target=void\ removePaciente(Paciente)
+comment3.params=
+comment3.target=int\ getCapMax()
+comment4.params=c
+comment4.target=void\ setCapMax(int)
+comment5.params=
+comment5.target=boolean\ estaLlena()
+comment6.params=salasLLenas
+comment6.target=void\ addSalaLLena(java.util.Vector)
+numComments=7

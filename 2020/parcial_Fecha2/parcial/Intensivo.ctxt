@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Intensivo()
+comment1.params=m
+comment1.target=void\ addMedico(Medico)
+comment2.params=m
+comment2.target=void\ removeMedico(Medico)
+comment3.params=
+comment3.target=int\ cantidadDeMedicos()
+numComments=4

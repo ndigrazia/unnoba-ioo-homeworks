@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Sistema()
+comment1.params=c
+comment1.target=void\ addCentroAislamiento(CentroAislamiento)
+comment2.params=c
+comment2.target=void\ removePaciente(CentroAislamiento)
+comment3.params=centro\ capacidad
+comment3.target=void\ agregarNuevaSala(CentroAislamiento,\ int)
+comment3.text=Agrega\ una\ sala\ al\ centro\ que\ se\ pasa\ como\ par\u00E1metro)
+comment4.params=centro\ paciente
+comment4.target=void\ agregarPaciente(CentroAislamiento,\ Paciente)
+comment4.text=Agrega\ el\ paciente\ al\ centro\ que\ se\ pasa\ como\ par\u00E1metro.\ \ \n\ Suponemos\ que\ siempre\ hay\ espacio\ en\ alguna\ de\ las\ salas\ del\ centro.\ \nPero\ no\ necesariamente\ en\ todas
+comment5.params=
+comment5.target=int\ cantidadDeMedicos()
+comment5.text=Retorna\ la\ suma\ de\ los\ m\u00E9dicos\ de\ todos\ los\ centros
+comment6.params=
+comment6.target=int\ totalCentroAislamiento()
+comment6.text=Retorna\ el\ total\ de\ los\ Centros\ de\ Aislamiento
+comment7.params=
+comment7.target=java.util.Vector\ salasLlenas()
+comment7.text=Retorna\ una\ colecci\u00F3n\ con\ todas\ las\ salas\ llenas.\ Una\ sala\ est\u00E1\ llena\ si\ col.size()\ >\=\ capacidadMaxima\ de\ la\ sala
+numComments=8

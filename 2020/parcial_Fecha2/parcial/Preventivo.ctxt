@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Preventivo()
+comment1.params=r
+comment1.target=void\ setResponsable(Responsable)
+comment2.params=
+comment2.target=Responsable\ getResponsable()
+comment3.params=
+comment3.target=int\ cantidadDeMedicos()
+numComments=4
