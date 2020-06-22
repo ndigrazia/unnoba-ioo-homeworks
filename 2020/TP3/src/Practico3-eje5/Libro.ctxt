@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=isbn\ nombre
+comment0.target=Libro(java.lang.String,\ java.lang.String)
+comment1.params=isbn\ nombre\ copias
+comment1.target=Libro(java.lang.String,\ java.lang.String,\ int)
+comment2.params=nombre
+comment2.target=void\ setNombre(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getNombre()
+comment4.params=isbn
+comment4.target=void\ setIsbn(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getIsbn()
+comment6.params=copias
+comment6.target=void\ setCopias(int)
+comment7.params=
+comment7.target=int\ getCopias()
+numComments=8

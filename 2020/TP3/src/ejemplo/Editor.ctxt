@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Editor()
+comment1.params=f
+comment1.target=void\ addFigura(Figura)
+comment2.params=f
+comment2.target=void\ removeFigura(Figura)
+comment3.params=
+comment3.target=int\ cantidadFiguras()
+numComments=4

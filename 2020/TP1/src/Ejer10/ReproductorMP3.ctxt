@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ReproductorMP3()
+comment1.params=
+comment1.target=boolean\ estaEncendido()
+comment2.params=
+comment2.target=boolean\ estaReproduciendo()
+comment3.params=
+comment3.target=void\ encender()
+comment4.params=
+comment4.target=void\ apagar()
+comment5.params=
+comment5.target=void\ reproducir()
+comment6.params=
+comment6.target=void\ parar()
+comment7.params=
+comment7.target=void\ proximoTema()
+comment8.params=
+comment8.target=void\ anteriorTema()
+comment9.params=
+comment9.target=int\ getTemaActual()
+numComments=10

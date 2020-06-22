@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Auto()
+comment1.params=
+comment1.target=Motor\ getMotor()
+comment10.params=
+comment10.target=java.lang.String\ getColor()
+comment11.params=color
+comment11.target=void\ setColor(java.lang.String)
+comment2.params=motor
+comment2.target=void\ setMotor(Motor)
+comment3.params=rueda\ pos
+comment3.target=void\ addRueda(Rueda,\ int)
+comment4.params=pos
+comment4.target=Rueda\ getRueda(int)
+comment5.params=puerta\ pos
+comment5.target=void\ addPuerta(Puerta,\ int)
+comment6.params=pos
+comment6.target=Puerta\ getPuerta(int)
+comment7.params=
+comment7.target=void\ encender()
+comment8.params=
+comment8.target=void\ apagar()
+comment9.params=
+comment9.target=void\ cerrar()
+numComments=12

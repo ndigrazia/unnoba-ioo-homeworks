@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=m
+comment0.target=void\ addMensajeEnviado(Mensaje)
+comment1.params=m
+comment1.target=void\ removeMensajeEnviado(Mensaje)
+comment2.params=m
+comment2.target=void\ addMensajeRecibido(Mensaje)
+comment3.params=m
+comment3.target=void\ removeMensajeRecibido(Mensaje)
+comment4.params=m
+comment4.target=void\ enviarMensaje(Mensaje)
+comment5.params=m
+comment5.target=java.lang.String\ recibirMensaje(Mensaje)
+comment6.params=
+comment6.target=Estado\ getEstado()
+comment7.params=estado
+comment7.target=void\ setEstado(Estado)
+numComments=8

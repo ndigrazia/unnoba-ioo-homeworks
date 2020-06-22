@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=mensajero\ mensaje
+comment0.target=void\ enviarMensaje(Mensajero,\ Mensaje)
+comment1.params=mensajero\ mensaje
+comment1.target=java.lang.String\ recibirMensaje(Mensajero,\ Mensaje)
+numComments=2

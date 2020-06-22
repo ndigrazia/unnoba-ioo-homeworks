@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Temperatura2()
+comment1.params=kelvin
+comment1.target=void\ setKelvin(float)
+comment2.params=
+comment2.target=float\ getKelvin()
+comment3.params=fahrenheit
+comment3.target=void\ setFahrenheit(float)
+comment4.params=
+comment4.target=float\ getFahrenheit()
+numComments=5
