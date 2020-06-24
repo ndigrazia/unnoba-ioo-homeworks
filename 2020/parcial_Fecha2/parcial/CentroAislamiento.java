@@ -35,6 +35,14 @@ public abstract class CentroAislamiento
          salas.remove(s);
     }
     
+    public void addSala(int capacidad) {
+        Sala s = new Sala();
+        
+        s.setCapMax(capacidad);
+        
+        addSala(s);
+    }
+    
     public void addPaciente(Paciente p) {
         for(Sala s:salas) {
             if(s.addPaciente(p)) {

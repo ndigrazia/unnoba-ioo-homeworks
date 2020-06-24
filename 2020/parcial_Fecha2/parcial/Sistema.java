@@ -9,7 +9,8 @@ public class Sistema
     }
 
     public void addCentroAislamiento(CentroAislamiento c) {
-         centros.add(c);
+        if(!centros.contains(c)) 
+            centros.add(c);
     }
     
     public void removePaciente(CentroAislamiento c) {
@@ -18,13 +19,8 @@ public class Sistema
     
     /*Agrega una sala al centro que se pasa como parámetro)*/
     public void agregarNuevaSala(CentroAislamiento centro, int capacidad) {
-        Sala s = new Sala();
-        
-        s.setCapMax(capacidad);
-        
-        centro.addSala(s);
-        
-        centros.add(centro);
+        centro.addSala(capacidad);
+        addCentroAislamiento(centro);
     }
     
     /*Agrega el paciente al centro que se pasa como parámetro.  
