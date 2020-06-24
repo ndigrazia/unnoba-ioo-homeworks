@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Institucion()
+comment1.params=localidad
+comment1.target=void\ set_localidad(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ get_localidad()
+numComments=3

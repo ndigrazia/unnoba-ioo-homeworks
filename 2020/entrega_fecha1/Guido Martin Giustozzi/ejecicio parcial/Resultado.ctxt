@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Resultado
+comment1.params=
+comment1.target=Resultado()
+comment10.params=
+comment10.target=int\ sereologico()
+comment11.params=
+comment11.target=double\ tiempoTarda()
+comment2.params=
+comment2.target=java.util.Date\ getFecha()
+comment3.params=
+comment3.target=Institucion\ getInstitucion()
+comment4.params=
+comment4.target=boolean\ getValorResultado()
+comment5.params=
+comment5.target=Test\ getTest()
+comment6.params=fecha
+comment6.target=void\ setFecha(java.util.Date)
+comment7.params=insticucion
+comment7.target=void\ setInstitucion(Institucion)
+comment8.params=resultado
+comment8.target=void\ setValorResultado(boolean)
+comment9.params=test
+comment9.target=void\ setTest(Test)
+numComments=12

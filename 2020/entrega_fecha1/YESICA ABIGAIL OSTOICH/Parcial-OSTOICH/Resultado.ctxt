@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Resultado()
+comment1.params=estado
+comment1.target=Resultado(boolean)
+comment2.params=fecha
+comment2.target=void\ setFechaDeResultado(java.util.Date)
+comment3.params=
+comment3.target=java.util.Date\ getFechaDeResultado()
+comment4.params=estado
+comment4.target=void\ setEstado(boolean)
+comment5.params=
+comment5.target=boolean\ getEstado()
+numComments=6

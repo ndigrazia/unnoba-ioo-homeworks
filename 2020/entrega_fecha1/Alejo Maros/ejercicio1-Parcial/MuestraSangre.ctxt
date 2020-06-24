@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MuestraSangre()
+comment1.params=
+comment1.target=java.lang.String\ getMuestra()
+comment2.params=muestra
+comment2.target=void\ setMuestra(java.lang.String)
+comment3.params=
+comment3.target=java.lang.Boolean\ getFactor()
+comment4.params=factor
+comment4.target=void\ setValor(java.lang.Boolean)
+numComments=5

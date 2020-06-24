@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Institucion
+comment1.params=
+comment1.target=Institucion()
+comment2.params=tecnico
+comment2.target=void\ addTecnico(Tecnico)
+comment3.params=tecnico
+comment3.target=void\ removeTecnico(Tecnico)
+comment4.params=resultado
+comment4.target=void\ addResultado(Resultado)
+comment5.params=resultado
+comment5.target=void\ removeResultado(Resultado)
+numComments=6

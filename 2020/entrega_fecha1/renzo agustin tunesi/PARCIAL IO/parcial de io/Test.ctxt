@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=fechaInicio
+comment0.target=void\ set(java.util.Date)
+comment1.params=
+comment1.target=java.util.Date\ get()
+comment2.params=
+comment2.target=float\ calcularTiempo()
+numComments=3

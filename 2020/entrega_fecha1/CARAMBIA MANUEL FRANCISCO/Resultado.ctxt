@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=unaFecha
+comment0.target=void\ setFechaDeResultado(java.util.Date)
+comment1.params=
+comment1.target=java.util.Date\ getFechaDeResultado()
+comment2.params=unExamen
+comment2.target=void\ setExamen(boolean)
+comment3.params=
+comment3.target=boolean\ getExamen()
+comment4.params=unResultado
+comment4.target=void\ agregarResultado(Resultado)
+numComments=5

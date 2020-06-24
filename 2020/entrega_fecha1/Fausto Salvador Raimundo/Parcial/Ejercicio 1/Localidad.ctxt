@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=cp\ n
+comment0.target=Localidad(int,\ java.lang.String)
+comment1.params=nombre
+comment1.target=void\ setNombre(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment3.params=cp
+comment3.target=void\ setCP(int)
+comment4.params=
+comment4.target=int\ getCP()
+numComments=5

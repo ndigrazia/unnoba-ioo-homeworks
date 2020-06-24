@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Persona()
+comment1.params=nombre
+comment1.target=void\ set_nombre(java.lang.String)
+comment10.params=
+comment10.target=int\ get_sexo()
+comment2.params=
+comment2.target=java.lang.String\ get_nombre()
+comment3.params=dni
+comment3.target=void\ set_dni(int)
+comment4.params=
+comment4.target=int\ get_dni()
+comment5.params=direccion
+comment5.target=void\ set_direccion(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ get_direccion()
+comment7.params=fecha_nacimiento
+comment7.target=void\ set_fecha_nacimiento(java.util.Date)
+comment8.params=
+comment8.target=java.util.Date\ get_fecha_nacimiento()
+comment9.params=sexo
+comment9.target=void\ set_sexo(int)
+numComments=11

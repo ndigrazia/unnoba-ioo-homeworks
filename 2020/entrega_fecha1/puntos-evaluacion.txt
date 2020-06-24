@@ -1,0 +1,10 @@
+EJER1-A-UML 25 pts
+EJER1-B-agregarInstitucion 5 pts
+EJER1-B-agregarResultadoPositivo 15 pts
+EJER1-B-tiempoTotalMinutos 20 pts
+EJER1-B-getTotalSerologicos 20 pts
+
+EJER-2-A-Explique como extiende el sistema. 3 pts
+EJER-2-B-Nombre el patrón utilizado, para que sirve y de qué categoría es. 3 pts
+EJER-2-C-UML 3 pts
+

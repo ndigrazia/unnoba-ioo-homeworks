@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=nombre\ fecha_nacimiento\ dni\ direccion
+comment0.target=tecnico(java.lang.String,\ java.util.Date,\ int,\ java.lang.String)
+numComments=1

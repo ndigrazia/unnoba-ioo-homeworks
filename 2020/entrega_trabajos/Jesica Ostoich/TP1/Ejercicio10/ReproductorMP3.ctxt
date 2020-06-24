@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=ReproductorMP3
+comment1.params=
+comment1.target=void\ SubirVolumen()
+comment10.params=precioMP3
+comment10.target=void\ SetprecioMP3(int)
+comment11.params=
+comment11.target=boolean\ Getencendido()
+comment12.params=
+comment12.target=int\ GetCancionActual()
+comment2.params=
+comment2.target=void\ BajarVolumen()
+comment3.params=
+comment3.target=void\ encender()
+comment4.params=
+comment4.target=void\ apagar()
+comment5.params=
+comment5.target=void\ CambiarCancion()
+comment6.params=
+comment6.target=void\ retrocederCancion()
+comment7.params=colorMP3
+comment7.target=void\ SetcolorMP3(java.lang.String)
+comment8.params=marcaMP3
+comment8.target=void\ SetmarcaMP3(java.lang.String)
+comment9.params=modeloMP3
+comment9.target=void\ SetmodeloMP3(java.lang.String)
+numComments=13

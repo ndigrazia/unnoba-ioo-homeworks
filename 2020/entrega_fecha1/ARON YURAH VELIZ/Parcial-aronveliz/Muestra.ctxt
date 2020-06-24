@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=tipo\ factor
+comment0.target=Muestra(java.lang.String,\ boolean)
+comment1.params=tipo
+comment1.target=void\ set_tipo(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ get_tipo()
+comment3.params=factor
+comment3.target=void\ set_factor(boolean)
+comment4.params=
+comment4.target=boolean\ get_factor()
+numComments=5

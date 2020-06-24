@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Director\ getDirector()
+comment1.params=director
+comment1.target=void\ setDirector(Director)
+comment2.params=institucion
+comment2.target=void\ addInstitucion(Institucion)
+comment3.params=institucion
+comment3.target=void\ removeInstitucion(Institucion)
+comment4.params=resultado
+comment4.target=void\ addResultado(Resultado)
+comment5.params=resultado
+comment5.target=void\ removeResultado(Resultado)
+comment6.params=test\ institucion
+comment6.target=void\ agregarResultadoPositivo(Test,\ Institucion)
+comment7.params=institucion
+comment7.target=boolean\ buscarInstitucion(Institucion)
+comment8.params=
+comment8.target=double\ tiempoTotalMinutos()
+comment9.params=
+comment9.target=int\ getTotalSerologicos()
+numComments=10

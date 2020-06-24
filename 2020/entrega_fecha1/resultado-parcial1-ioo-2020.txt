@@ -1,0 +1,544 @@
+CARAMBIA MANUEL FRANCISCO p DESAPROBADO
+PARCIAL: DESAPROBADO
+
+EJER1-A-UML
+FALTA la clase Muestra.
+FALTA las relaciones entre la clase Malbran y las clases Test y Director.
+FALTA las relaciones entre Institución y Resultado y Técnico.
+
+EJER1-B-agregarInstitucion
+NO implementado.
+
+EJER1-B-agregarResultadoPositivo
+NO implementado.
+
+EJER1-B-tiempoTotalMinutos
+NO esta implementado en la clase Malbran y Resultado.
+NO esta implementado adecuadamente en las subclases de Test.
+
+EJER1-B-getTotalSerologicos
+NO implementado.
+
+EJER-2-A-Explique como extiende el sistema.
+NO Realizado.
+EJER-2-B-Nombre el patrón utilizado, para que sirve y de qué categoría es.
+NO Realizado.
+EJER-2-C-UML
+NO Realizado.
+
+
+
+2 19011/1 MAROS ALEJO p APROBADO.
+
+PARCIAL: DESAPROBADO
+
+EJER1-A-UML
+OK
+
+EJER1-B-agregarInstitucion
+OK
+
+EJER1-B-agregarResultadoPositivo
+NO resuelve lo requerido.
+
+EJER1-B-tiempoTotalMinutos
+OK 
+FUE implementado en la operación agregarResultadoPositivo
+
+EJER1-B-getTotalSerologicos
+NO
+FALTA declararlo en la clase Test e implementarlo en las clases hijo.
+
+
+
+3 19177/2 BOIS FRANCO EZEQUIEL ausente (SIN PARCIALITO)
+
+
+
+19189/2 SANTORO LAUREANO p DESAPROBADO.
+PARCIAL: DESAPROBADO
+
+EJER1-A-UML
+OK.
+FALTA la clase muestra
+
+EJER1-B-agregarInstitucion
+OK
+
+EJER1-B-agregarResultadoPositivo
++/-
+NO agrega el resultado a la colección de resultados.
+
+EJER1-B-tiempoTotalMinutos
+NO.
+Rompió el encapsulamiento: resultado.getTest().tiempoTest();
+
+EJER1-B-getTotalSerologicos
+NO.
+Rompió el encapsulamiento: resultado.getTest().es_Serologico();
+
+EJER-2-A-Explique como extiende el sistema.
+OK
+EJER-2-B-Nombre el patrón utilizado, para que sirve y de qué categoría es.
+OK
+EJER-2-C-UML
+OK
+
+
+5 19585/1 GIUSTOZZI GUIDO MARTIN p APROBADO
+PARCIAL: APROBADO
+
+EJER1-A-UML
+OK
+
+EJER1-B-agregarInstitucion
+OK
+
+EJER1-B-agregarResultadoPositivo
++/-
+NO agrega el resultado a la coleccion de resultados.
+
+EJER1-B-tiempoTotalMinutos
+OK
+
+EJER1-B-getTotalSerologicos
+OK
+
+
+
+6 20374/1 TUNESI RENZO AGUSTIN p APROBADO.
+PARCIAL:DESAPROBADO
+
+EJER1-A-UML
+OK
+EJER1-B-agregarInstitucion
+OK
+
+EJER1-B-agregarResultadoPositivo
+NO implementado
+
+EJER1-B-tiempoTotalMinutos
+OK
+
+EJER1-B-getTotalSerologicos
+NO
+FALTA declararlo en la clase Test e implementarlo en las clases hijo.
+
+
+
+
+7 20663/1 PEREZ MATIAS p APROBADO
+PARCIAL: DESAPROBADO
+
+EJER1-A-UML
+OK
+EJER1-B-agregarInstitucion
+OK
+EJER1-B-agregarResultadoPositivo
++/-
+NO agrega el resultado a la colección de resultados.
+
+EJER1-B-tiempoTotalMinutos
+NO
+Rompió el encapsulamiento: resultado.getTest().tiempoTest();
+
+EJER1-B-getTotalSerologicos
+NO
+Rompió el encapsulamiento: resultado.getTest().esSerologico();
+
+
+
+
+
+8 20918/1 VIDELA CELESTE p APROBADO
+PARCIAL: DESAPROBADO
+
+EJER1-A-UML
+OK.
+FALTA la clase muestra
+
+EJER1-B-agregarInstitucion
+OK
+
+EJER1-B-agregarResultadoPositivo
++/-
+NO Agrega el resultado a la colección de resultados.
+
+EJER1-B-tiempoTotalMinutos
+NO
+Rompió el encapsulamiento: r.getTest().TiempoTest();
+
+
+EJER1-B-getTotalSerologicos
+NO
+Rompió el encapsulamiento: r.getTest().es_Serologico()
+
+
+
+9 21190/6 JURE FACUNDO p APROBADO
+PARCIAL: DESAPROBADO
+
+EJER1-A-UML
+OK.
+FALTA la clase muestra
+
+EJER1-B-agregarInstitucion
+OK
+
+EJER1-B-agregarResultadoPositivo
+NO implementado adecuadamente
+
+EJER1-B-tiempoTotalMinutos
+NO sobreescribe la operación tiempoTarda() en las clases hijas de la clase Test. 
+Rompió el encapsulamiento.
+
+EJER1-B-getTotalSerologicos
+NO identifica los test serologicos en la clase Test ni en sus clases hijas.
+
+
+
+10 3444/2 MEDINA LUCAS SEBASTIAN ausente (SIN PARCIALITO)
+
+
+
+11 sin definir BASCOY AGUSTÍN p APROBADO
+PARCIAL:DESAPROBADO.
+
+EJER1-A-UML
+OK.
+La clase muestra es solo para Serologicos.
+
+EJER1-B-agregarInstitucion
+OK
+
+EJER1-B-agregarResultadoPositivo
+OK
+
+EJER1-B-tiempoTotalMinutos
+NO.
+Rompió el encapsulamiento: e.getTest().tiempoDeTest();
+
+EJER1-B-getTotalSerologicos
+NO esta implementado adecuadamente. La muestra no debe estar definido como operacion en Test.
+Es solo de la clase serologicos.
+
+
+13 sin definir BRUCEZZI THIAGO p APROBADO
+PARCIAL: APROBADO
+
+EJER1-A-UML
+OK
+EJER1-B-agregarInstitucion
+OK
+EJER1-B-agregarResultadoPositivo
+NO Implementado
+
+EJER1-B-tiempoTotalMinutos
+OK
+
+EJER1-B-getTotalSerologicos
+OK
+
+
+
+12 sin definir BENVINO NICOLAS MATIAS p APROBADO
+PARCIAL:APROBADO
+
+EJER1-A-UML
+OK
+
+EJER1-B-agregarInstitucion
+OK
+
+EJER1-B-agregarResultadoPositivo
+OK
+
+EJER1-B-tiempoTotalMinutos
+OK
+
+EJER1-B-getTotalSerologicos
+OK
+
+
+14 sin definir CABRERA ORDOÑEZ JEISON DAVID p APROBADO
+PARCIAL:DESAPROBADO
+
+EJER1-A-UML
+Ok. Falta la clase muestra
+
+EJER1-B-agregarInstitucion
+OK
+
+EJER1-B-agregarResultadoPositivo
+OK
+
+EJER1-B-tiempoTotalMinutos
+NO
+Rompió el encapsulamiento: resultado.getMiTest().tiempoTest();
+
+EJER1-B-getTotalSerologicos
+NO
+Rompió el encapsulamiento: resultado.getMiTest().es_Serologico();
+
+
+15 sin definir CAÑETE TOMÁS GERMAN p DESAPROBADO
+PARCIAL:DESAPROBADO
+EJER1-A-UML
+OK
+FALTA la clase muestra
+NO esta implementado las relaciones entre la clase Persona y las clases Tecnico y Director.
+
+EJER1-B-agregarInstitucion
+OK
+
+EJER1-B-agregarResultadoPositivo
+OK. No debe tener una colleccion de resultados positivos.
+
+EJER1-B-tiempoTotalMinutos
+No.
+Rompió el encapsulamiento r.getTest().getTiempoResultado();
+
+EJER1-B-getTotalSerologicos
+NO. Debería evaluarse todos los resultados, no solo los resultados positivos.
+Rompió el encapsulamiento: r.getTest().isSerologico()
+
+EJER-2-A-Explique como extiende el sistema.
+NO. El patrón que debe emplear es State no Observer.
+EJER-2-B-Nombre el patrón utilizado, para que sirve y de qué categoría es.
+NO. El patrón que debe emplear es State no Observer.
+EJER-2-C-UML
+NO. El patrón que debe emplear es State no Observer.
+
+
+
+16 sin definir FRANCO FRANCISCO ALEJO p APROBADO.
+PARCIAL:DESAPROBADO
+EJER1-A-UML
+OK
+EJER1-B-agregarInstitucion
+OK
+EJER1-B-agregarResultadoPositivo
+OK
+EJER1-B-tiempoTotalMinutos
+NO.
+Rompió el encapsulamiento: (x.getTest()).tiempo();
+
+EJER1-B-getTotalSerologicos
+NO
+la operación no debería llamarse getMuestra().
+Rompió el encapsulamiento: x.getTest().getMuestra()
+
+
+17 sin definir GALLICET MARTIN p APROBADO
+PARCIAL:DESAPROBADO
+EJER1-A-UML
+NO.
+FALTA la relación entre la clase Malbran y resultado. 
+Esta relación es sumamente importante para resolver las operaciones solicitadas.
+
+EJER1-B-agregarInstitucion
+OK.
+EJER1-B-agregarResultadoPositivo
+NO implementado
+EJER1-B-tiempoTotalMinutos
+NO implementado
+EJER1-B-getTotalSerologicos
+NO implementado
+
+
+
+18 sin definir GODOY JUAN LUCAS p APROBADO
+PARCIAL: DESAPROBADO
+EJER1-A-UML
+OK
+
+EJER1-B-agregarInstitucion
+OK
+
+EJER1-B-agregarResultadoPositivo
+-+ Es extraño como se asignan un resultado a su colección.
+
+EJER1-B-tiempoTotalMinutos
+NO
+Rompió el encapsulamiento: resultado.getTest().getTiempo().
+
+EJER1-B-getTotalSerologicos
+NO
+Rompió el encapsulamiento: resultado.getTest().testSerologico().
+
+
+
+19 sin definir GOMEZ GASPAR ALBERTO p APROBADO
+PARCIAL:DESAPROBADO
+EJER1-A-UML
+OK. 
+La clase muestra es solo de Serologicos.
+
+EJER1-B-agregarInstitucion
+OK
+EJER1-B-agregarResultadoPositivo
+OK
+EJER1-B-tiempoTotalMinutos
+NO
+Rompió el encapsulamiento: r.getTest().calcularTiempo()
+
+EJER1-B-getTotalSerologicos
+NO
+Rompió el encapsulamiento: r.getTest().getMuestra()
+NO debería usar la muestra para identificar si es Serologico o no.
+
+
+20 sin definir OSTOICH YESICA ABIGAIL p APROBADO
+PARCIAL:DESAPROBADO
+
+EJER1-A-UML
+OK
+
+EJER1-B-agregarInstitucion
+OK
+
+EJER1-B-agregarResultadoPositivo
+OK
+
+EJER1-B-tiempoTotalMinutos
+NO
+Rompió el encapsulamiento: r.getTest().tiempo()
+
+EJER1-B-getTotalSerologicos
+NO.
+NO debe implementarse en el metodo agregarResultado()
+Rompió el encapsulamiento: resultado.getTest().esSerologico()
+
+
+21 sin definir PAGANINI ALEJO ALBERTO ausente DESAPROBADO
+
+
+22 sin definir RAIMUNDO FAUSTO SALVADOR p DESAPROBADO
+PARCIAL:DESAPROBADO
+EJER1-A-UML
+OK
+EJER1-B-agregarInstitucion
+OK
+EJER1-B-agregarResultadoPositivo
+NO se agrego el resultado a la collecion de resultados.
+NO se indico que el resultado es positivo.
+
+EJER1-B-tiempoTotalMinutos
+NO
+Rompió el encapsulamiento: r.getTest().tiempo()
+
+EJER1-B-getTotalSerologicos
+NO. Se debe crear un metodo especial para la funcionalidad.
+NO se debe comparar por el tiempo de realización del test.
+
+EJER-2-A-Explique como extiende el sistema.
+No. Se debe aplicar patrón State
+EJER-2-B-Nombre el patrón utilizado, para que sirve y de qué categoría es. 
+No. Se debe aplicar patrón State
+EJER-2-C-UML 3
+No. Se debe aplicar patrón State
+
+
+
+23 sin definir REY NICOLÁS ESTEBAN ausente
+
+
+24 sin definir RODRIGUEZ DAIANA ANDREA p APROBADO.
+PARCIAL:DESAPROBADO.
+EJER1-A-UML
+OK. Falta la clase muestra
+
+EJER1-B-agregarInstitucion
+OK
+
+EJER1-B-agregarResultadoPositivo
+-/+ No se agrego a la colección de resultados.
+
+EJER1-B-tiempoTotalMinutos
+NO
+Rompió el encapsulamiento: resultado.getTest().tiempoTest()
+
+EJER1-B-getTotalSerologicos
+NO esta implementado en la clase Malbran.
+
+
+25 sin definir RUBIO HERNAN p APROBADO.
+PARCIAL: DESAPROBADO
+EJER1-A-UML
+OK
+EJER1-B-agregarInstitucion
+OK
+EJER1-B-agregarResultadoPositivo
+OK
+EJER1-B-tiempoTotalMinutos
+NO
+Rompió el encapsulamiento: r.getTest().tiempoTest()
+
+EJER1-B-getTotalSerologicos
+NO. Se debe crear un metodo especial para la funcionalidad.
+NO se debe comparar por el tiempo de realización del test.
+Rompió el encapsulamiento: r.getTest().tiempoTest()
+
+
+26 sin definir SPERANZA LARA p APROBADO.
+PARCIAL:APROBADO
+EJER1-A-UML
+OK
+EJER1-B-agregarInstitucion
+OK
+EJER1-B-agregarResultadoPositivo
+OK
+EJER1-B-tiempoTotalMinutos
+OK
+EJER1-B-getTotalSerologicos
+NO. Se debe crear un metodo especial para la funcionalidad.
+No se debe comparar por el tiempo de realización del test.
+
+
+27 sin definir SPIATTA JUAN PABLO p DESAPROBADO.
+
+PARCIAL: DESAPROBADO
+
+EJER1-A-UML
+NO. 
+FALTA la relación entre la clase Malbran y Resultado. Esta 
+relación es necesaria para resolver las operaciones solicitadas.
+EJER1-B-agregarInstitucion
+NO. Se debe recorrer la colección o usar la operación contains()
+EJER1-B-agregarResultadoPositivo
+NO implementado en la clase Malbran
+EJER1-B-tiempoTotalMinutos
+NO implementado en la clase Malbran
+EJER1-B-getTotalSerologicos
+NO implementado en la clase Malbran
+EJER-2-A-Explique como extiende el sistema.
+NO resolvio el ejercicio.
+EJER-2-B-Nombre el patrón utilizado, para que sirve y de qué categoría es. 
+NO resolvio el ejercicio.
+EJER-2-C-UML 3
+NO resolvio el ejercicio.
+
+28 sin definir VELIZ ARON YURAH p APROBADO
+PARCIAL:DESAPROBADO
+EJER1-A-UML
+NO. 
+FALTA la relacion por coleccion con la clase Resultado.
+FALTA subclasificar la clase Persona.
+FALTA la clase Localidad
+EJER1-B-agregarInstitucion
+OK.
+EJER1-B-agregarResultadoPositivo
+NO.
+FALTA intanciar el objeto Resultado.
+FALTA la relacion por coleccion con la clase Resultado.
+FALTA agregar el objeto a la coleccion de Resultado.
+EJER1-B-tiempoTotalMinutos
+NO.
+FALTA la relacion por coleccion con la clase Resultado. No puede recorrer los resultados.
+La institución no tiene todos los resultados.
+EJER1-B-getTotalSerologicos
+NO. Se debe crear un metodo especial para la funcionalidad.
+No se debe comparar por el tiempo de realización del test.
+
+SOTELO CARLOS p (SIN PARCIALITO)
+PARCIAL:DESAPROBADO

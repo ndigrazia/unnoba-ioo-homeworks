@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=tipo\ factor
+comment0.target=MuestraDeSangre(java.lang.String,\ boolean)
+comment1.params=tipo
+comment1.target=void\ setTipo(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getTipo()
+comment3.params=factor
+comment3.target=void\ setFactor(boolean)
+comment4.params=
+comment4.target=boolean\ getFactor()
+numComments=5

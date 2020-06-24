@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Test()
+comment1.params=
+comment1.target=double\ calcular_tiempo()
+comment2.params=fecha_inicio
+comment2.target=void\ set_fecha_inicio(java.util.Date)
+comment3.params=
+comment3.target=java.util.Date\ get_fecha_inicio()
+numComments=4

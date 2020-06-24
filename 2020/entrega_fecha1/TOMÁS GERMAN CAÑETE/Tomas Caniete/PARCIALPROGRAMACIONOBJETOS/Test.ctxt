@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=fechainicio
+comment0.target=void\ setFechaInicio(java.util.Date)
+comment1.params=
+comment1.target=java.util.Date\ getFechaInicio()
+comment2.params=
+comment2.target=int\ getTiempoResultado()
+comment3.params=
+comment3.target=boolean\ isSerologico()
+numComments=4

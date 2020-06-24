@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=unDni
+comment0.target=void\ getDni(int)
+comment1.params=
+comment1.target=int\ setDni()
+comment2.params=unNombre
+comment2.target=void\ getNombre(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ setNombre()
+numComments=4

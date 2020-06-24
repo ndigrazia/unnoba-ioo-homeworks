@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=tipo\ factor
+comment0.target=Sangre(int,\ boolean)
+comment1.params=tipo
+comment1.target=void\ setTipo(int)
+comment2.params=factor
+comment2.target=void\ setFactor(boolean)
+numComments=3

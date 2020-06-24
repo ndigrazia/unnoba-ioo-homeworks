@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=double\ tiempoTotalMinutos()
+comment0.text=Retorna\ el\ tiempo\ total\ de\ todos\ los\ tests
+comment1.params=
+comment1.target=int\ getTotalSerologicos()
+comment1.text=Retorna\ la\ cantidad\ de\ test\ Serologicos\ realizados
+numComments=2

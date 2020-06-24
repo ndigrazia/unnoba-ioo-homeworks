@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PCR()
+comment1.params=
+comment1.target=int\ getTiempo()
+comment2.params=
+comment2.target=boolean\ testSerologico()
+numComments=3

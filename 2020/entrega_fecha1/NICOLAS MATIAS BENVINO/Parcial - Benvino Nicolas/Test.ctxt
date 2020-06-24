@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ tiempoDeTesteo()
+comment1.params=
+comment1.target=int\ esSerologico()
+comment2.params=fecha
+comment2.target=void\ setFecha(java.util.Date)
+comment3.params=
+comment3.target=java.util.Date\ getFecha()
+numComments=4

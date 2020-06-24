@@ -1,0 +1,185 @@
+﻿ALEJO ALBERTO PAGANINI
+No entregado
+Resultado: DESAPROBADO.
+
+
+AGUSTIN BASCOY
+En la clase Malbran hay una asociación de uno y solo uno con la clase Persona. Esta debe ser expresada con una asociación de uno y solo uno con la clase Director.
+En la clase Institución tiene asociación de colección de clase Persona. Esta asociación debe ser expresada con colección de clase Técnico.
+En lugar de haber creado una herencia entre la clase Rol y sus hijas: Director y Técnico, sería deseable que cree una herencia entre la clase padre Persona con sus clases hijos: Director y Técnico. 
+Resultado: APROBADO.
+
+
+NICOLAS MATIAS BENVINO
+Sin comentarios.
+Resultado: APROBADO.
+
+
+THIAGO BRUCEZZI
+Sin comentarios.
+Resultado: APROBADO.
+
+
+JEISON DAVID CABRERA ORDOÑEZ
+Sin comentarios.
+Resultado: APROBADO.
+
+
+ALEJO FRANCO
+En la clase Institución existe una asociación con colección de clase Persona para indicar la relación con los técnicos. Debe ser una asociación con colección de clase Técnico.
+En lugar de haber creado una herencia entre la clase Rol y sus hijas: Director y Técnico, sería deseable que cree una herencia entre la clase padre Persona con sus clases hijos: Director y Técnico. 
+Resultado: APROBADO.
+
+
+GUIDO MARTIN GIUSTOZZI
+Sin comentarios.
+Resultado: APROBADO.
+
+
+GASPAR ALBERTO GOMEZ
+En la clase Malbran hay una asociación de uno y solo uno con la clase Persona. Esta debe ser expresada con una asociación de uno y solo uno con la clase Director.
+En la clase institución hay una asociación con colección de Persona para indicar la relación con los técnicos. Debe indicarse una asociación con colección de clase Técnico.
+En lugar de haber creado una herencia entre la clase Rol y sus hijas: Director y Técnico, sería deseable que cree una herencia entre la clase padre Persona con sus clases hijos: Director y Técnico. 
+Resultado: APROBADO.
+
+
+FACUNDO JURE
+En la clase Institución se indicó una asociación de uno y solo uno con la clase Técnico. Debe indicar una asociación con colección de clase Técnico.
+En la clase Intitucion se indico una asociación de uno y solo uno con la  Resultado. Debe indicar una asociación con colección de clase Resultado.
+La clase Técnicos debe llamarse en singular Técnico.
+En la clase Resultado falta el atributo positivo (booleano).
+La clase Test no tiene un atributo booleano. Debe ser indicado en la clase Resultado.
+Resultado: APROBADO.
+
+
+TOMÁS GERMAN CAÑETE 
+Falta la clase Malbran.
+Falta una asociación con colección entre la clase Malbran y la clase Institución.
+Falta una asociación con colección entre la clase Malbran y la clase Resultado.
+Falta una asociación uno y solo uno entre la clase Malbran y la clase Director.
+En la clase Resultado no debe existir una asociación de colección consigo misma.
+La clase TestRapido no debe contener un atributo llamado x;
+La clase TestBasico no debe contener un atributo llamado x;
+La clase Tecnicos debe llamarse en singular Tecnico.
+Falta indicar un atributo de tiempo en las clases Rapido y Basico.
+Resultado: DESAPROBADO.
+
+
+MANUEL FRANCISCO CARAMBIA 
+Falta la clase Malbran. Asumo que se llamo Centro.
+Falta una asociación con colección entre la clase Malbran y la clase Institución.
+Falta una asociación uno y solo uno entre la clase Malbran y la clase Director.
+La clase Persona no debería ser abstracta
+En la clase Institución falta una asociación con colección con la clase Técnico.
+En la clase Institución falta una asociación con colección con la clase Resultado.
+Resultado: DESAPROBADO.
+
+
+JULIETA CRIGNOLA 
+La clase Malbran no debe herredar de la clase Persona.
+La clase Resultado no debe herredar de la clase Test.
+La clase Test no debe herredar de la clase Persona.
+Falta las clases TestRapido y TestBasico.
+Falta la clase Director.
+En la clase Malbran falta la asociación uno y solo uno con la clase Director.
+En la clase Resultado falta la asociación uno y solo uno con la clase Test.
+Resultado: DESAPROBADO.
+
+
+MARTIN GALLICET 
+Falta una asociación con colección entre la clase Malbran y la clase Resultado.
+Resultado: APROBADO.
+
+
+JUAN LUCAS GODOY 
+Sin comentarios.
+Resultado: APROBADO.
+
+
+ARON YURAH VELIZ 
+En la clase Malbran hay una asociación de uno y solo uno con la clase Persona. Esta debe ser expresada con una asociación de uno y solo uno con la clase Director.
+En la clase Institución tiene asociación de colección de clase Persona. Esta asociación debe ser expresada con colección de clase Técnico.
+Falta una asociación con colección entre la clase Malbran y la clase Resultado.
+Resultado: APROBADO.
+
+
+CELESTE VIDELA
+El atributo pacientes en la clase Test debe llamarse en singular: paciente.
+Resultado: APROBADO.
+
+
+MATIAS PEREZ
+En la clase Malbran se indicó una asociación de uno y solo uno con la clase Resultado. Debe indicar una asociación con colección de clase Resultado.
+En la clase Malbran se indicó una asociación de uno y solo uno con la clase Institución. Debe indicar una asociación con colección de clase Institución.
+En la clase Institución se indicó una asociación de uno y solo uno con la clase Técnico. Debe indicar una asociación con colección de clase Técnico.
+En la clase Institución se indicó una asociación de uno y solo uno con la clase Resultado. Debe indicar una asociación con colección de clase Resultado.
+Resultado: APROBADO.
+
+
+ALEJO MAROS
+En la clase Institución se indicó una asociación de uno y solo uno con la clase Técnico. Debe indicar una asociación con colección de clase Técnico.
+En la clase Institución se indicó una asociación de uno y solo uno con la clase Resultado. Debe indicar una asociación con colección de clase Resultado.
+Resultado: APROBADO.
+
+
+YESICA OSTOICH
+No es necesario repetir los atributos persona y fecha de inicio en las clases Rápido y Básico. Recordar que estos atributos están en la clase padre Test y pueden ser accedidos por los getters/setters en las clases hijos.
+Recordar nombrar las clases en singular.
+Resultado: APROBADO.
+
+
+FAUSTO RAIMUNDO
+En la clase resultado falta la relación con la clase Institución.
+Falta la clase Institución y sus relaciones con las clases Técnico, Resultado y Localidad.
+Resultado: DESAPROBADO.
+
+
+
+DAIANA RODRIGUEZ
+Sin comentarios.
+Resultado: APROBADO.
+
+
+HERNAN RUBIO
+Sin comentarios.
+Resultado: APROBADO.
+
+
+LAUREANO SANTORO
+En la clase Malbran no se debe indicar la relación con la clase Técnico.
+En la clase Malbran no se debe indicar la relación con la clase Localidad.
+En la clase Malbran no posee el atributo booleano resultado.
+En la clase Malbran falta indicar la asociación con colección con clase Resultado.
+En la clase Malbran falta indicar la asociación con colección con clase Institución.
+Falta la clase Institución y sus relaciones con las clases Técnico, Resultado y Localidad.
+En la clase Resultado no se debe indicar la relación con la clase Malbran.
+En la clase Test no se debe indicar como atributo las clases Rápido y Básico. Esto debe ser resuelto
+con el concepto de herencia.
+Resultado: DESAPROBADO.
+
+
+LARA SPERANZA
+La clase Malbran no debe heredar de la clase institución.
+Resultado: APROBADO.
+
+
+JUAN PABLO SPIATTA
+En la clase Malbran falta indicar la asociación uno y solo uno con la clase Director.
+En la clase Malbran falta indicar la asociación con colección con clase Resultado.
+En la clase Malbran falta indicar la asociación con colección con clase Institución.
+En la clase Institución tiene asociación de colección de clase Persona. Esta asociación debe ser expresada con colección de clase Técnico.
+Resultado: DESAPROBADO.
+
+
+AGUSTIN TUNESSI.
+En la clase Institución se indicó una asociación de uno y solo uno con la clase Técnico. Debe indicar una asociación con colección de clase Técnico.
+En la clase Institución se indicó una asociación de uno y solo uno con la clase Resultado. Debe indicar una asociación con colección de clase Resultado.
+Recordar nombrar las clases en singular.
+Resultado: APROBADO.
+
+
+
+
+
+
+

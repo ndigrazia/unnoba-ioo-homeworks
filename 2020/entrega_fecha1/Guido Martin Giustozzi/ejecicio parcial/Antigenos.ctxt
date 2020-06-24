@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Antigenos
+comment1.params=
+comment1.target=Antigenos()
+comment2.params=
+comment2.target=double\ calcularTiempo()
+comment3.params=
+comment3.target=int\ esSereologico()
+numComments=4

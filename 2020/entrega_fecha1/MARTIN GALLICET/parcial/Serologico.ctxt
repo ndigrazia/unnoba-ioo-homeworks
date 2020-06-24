@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=t
+comment0.target=void\ addTesteos(java.util.List)
+comment1.params=t
+comment1.target=void\ addTesteos(Test)
+comment2.params=t
+comment2.target=void\ removeTesteos(Test)
+comment3.params=
+comment3.target=int\ getTotalTesteos()
+comment4.params=
+comment4.target=int\ tiempoTotalMinutos()
+numComments=5

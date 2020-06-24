@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ es_Serologico()
+comment1.params=tipoSangre
+comment1.target=void\ setTipoSangre(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getTipoSangre()
+comment3.params=factor
+comment3.target=void\ setFactor(boolean)
+comment4.params=
+comment4.target=boolean\ getFactor()
+comment5.params=
+comment5.target=double\ TiempoTest()
+numComments=6

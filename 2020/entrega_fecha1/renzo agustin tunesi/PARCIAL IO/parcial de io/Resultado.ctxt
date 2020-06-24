@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=fechaResultado
+comment0.target=void\ setfechaResultado(java.util.Date)
+comment1.params=
+comment1.target=java.util.Date\ getfechaResultado()
+comment2.params=test
+comment2.target=void\ setTest(Test)
+comment3.params=
+comment3.target=Test\ getTest()
+comment4.params=positivoNegativo
+comment4.target=void\ setpositivoNegativo(boolean)
+comment5.params=
+comment5.target=boolean\ getpositivoNegativo()
+comment6.params=institucion
+comment6.target=void\ setInstitucion(Institucion)
+comment7.params=
+comment7.target=Institucion\ getInstitucion()
+comment8.params=
+comment8.target=double\ tiempoTarda()
+comment9.params=
+comment9.target=int\ Serologico()
+numComments=10

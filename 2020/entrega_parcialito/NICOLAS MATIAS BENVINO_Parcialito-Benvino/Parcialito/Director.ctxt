@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=nombre\ fechaNacimiento\ DNI
+comment0.target=Director(java.lang.String,\ java.util.Date,\ long)
+numComments=1

@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=nombre\ apellido\ edad\ dni\ tipo\ factor
+comment0.target=Serologicos(java.lang.String,\ java.lang.String,\ int,\ int,\ java.lang.String,\ boolean)
+numComments=1

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=unTipo
+comment0.target=void\ setTipo(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getTipo()
+comment2.params=unFactor
+comment2.target=void\ setFactor(boolean)
+comment3.params=
+comment3.target=boolean\ getFactor()
+numComments=4

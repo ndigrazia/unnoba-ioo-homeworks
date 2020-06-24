@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=double\ tiempoTest()
+comment1.params=
+comment1.target=int\ esSerologico()
+comment2.params=
+comment2.target=java.lang.String\ getMuestraSangre()
+comment3.params=factor
+comment3.target=void\ setFactor(boolean)
+comment4.params=
+comment4.target=boolean\ getFactor()
+numComments=5

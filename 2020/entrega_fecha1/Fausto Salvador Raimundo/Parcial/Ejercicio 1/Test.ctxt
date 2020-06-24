@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Test()
+comment1.params=
+comment1.target=double\ tiempo()
+comment2.params=p
+comment2.target=void\ setPersona(Persona)
+comment3.params=
+comment3.target=Persona\ getPersona()
+comment4.params=e
+comment4.target=void\ setEstado(int)
+comment5.params=
+comment5.target=int\ getEstado()
+numComments=6

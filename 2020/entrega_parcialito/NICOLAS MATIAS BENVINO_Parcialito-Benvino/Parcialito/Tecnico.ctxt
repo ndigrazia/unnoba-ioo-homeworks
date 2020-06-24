@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=nombre\ fechaNacimiento\ DNI\ titulo
+comment0.target=Tecnico(java.lang.String,\ java.util.Date,\ long,\ java.lang.String)
+comment1.params=titulo
+comment1.target=void\ setTitulo(java.lang.String)
+numComments=2

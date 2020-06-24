@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=f
+comment0.target=void\ setFecha(java.util.Date)
+comment1.params=p
+comment1.target=void\ setPositivo(boolean)
+comment2.params=
+comment2.target=java.util.Date\ getFecha()
+comment3.params=
+comment3.target=boolean\ getPositivo()
+numComments=4

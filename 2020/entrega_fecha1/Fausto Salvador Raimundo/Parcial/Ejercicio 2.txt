@@ -1,0 +1,2 @@
+Se puede saber el estado del test agregando, dentro de la clase Test, variables estaticas representando cada estado.
+(Agregué en el UML)

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=rol
+comment0.target=void\ setRol(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getRol()
+comment2.params=ID
+comment2.target=void\ setID(int)
+comment3.params=
+comment3.target=int\ getID()
+numComments=4

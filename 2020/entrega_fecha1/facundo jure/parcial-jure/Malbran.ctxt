@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=institucion
+comment0.target=void\ agregarInstitucion(Institucion)
+comment1.params=test\ institucion
+comment1.target=void\ agregarResultadoPositivo(Test,\ Institucion)
+comment2.params=
+comment2.target=double\ tiempoTotalMinutos()
+comment3.params=
+comment3.target=int\ getTotalSerologicos()
+numComments=4
