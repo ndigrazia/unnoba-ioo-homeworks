@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=boolean\ espacioDisponible()
+comment1.params=c
+comment1.target=void\ setCapMax(int)
+comment2.params=
+comment2.target=int\ getCapMax()
+numComments=3

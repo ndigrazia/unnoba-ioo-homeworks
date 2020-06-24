@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=capacidad
+comment0.target=void\ agregarSala(int)
+comment1.params=
+comment1.target=int\ cantidadDeMedicos()
+comment2.params=nombre
+comment2.target=void\ setNombre(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getNombre()
+numComments=4

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=c
+comment0.target=void\ setCapacidad(int)
+comment1.params=
+comment1.target=int\ getCapacidad()
+comment2.params=
+comment2.target=boolean\ quedaEspacio()
+numComments=3

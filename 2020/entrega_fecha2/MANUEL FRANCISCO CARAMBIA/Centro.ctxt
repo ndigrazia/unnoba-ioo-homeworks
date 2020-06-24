@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Centro()
+comment1.params=
+comment1.target=java.lang.String\ getNombre()
+comment2.params=nombre
+comment2.target=void\ setNombre(java.lang.String)
+comment3.params=
+comment3.target=java.util.Vector\ getCentros()
+comment4.params=centros
+comment4.target=void\ setCentro(java.util.Vector)
+comment5.params=centro\ capacidad
+comment5.target=void\ agregarNuevaSala(Centro,\ int)
+comment5.text=Agrega\ una\ sala\ al\ centro\ que\ se\ pasa\ como\ par\u00E1metro)
+numComments=6

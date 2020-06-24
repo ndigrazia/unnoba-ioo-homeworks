@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CentroDeAislamiento()
+comment1.params=
+comment1.target=int\ cantidadDeMedicos()
+comment2.params=capacidad
+comment2.target=void\ agregarNuevaSala(int)
+comment3.params=
+comment3.target=int\ cantSalas()
+numComments=4

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=void\ setNombreCentro(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getNombreCentro()
+comment2.params=
+comment2.target=int\ cantidadMedicos()
+numComments=3

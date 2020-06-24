@@ -1,0 +1,718 @@
+60 para aprobados del parcialito
+70 parcial completo.
+
+--------------------------------------
+15471/1 CARAMBIA MANUEL FRANCISCO presente
+--------------------------------------
+RESULTADO: DESAPROBADO
+
+1.A 20 
+
+Falta la clase sistema y su relacion con una collecion de Centro.
+La clase Centro esta declarada como abstracta y no tiene declarado el metodo
+cantidadDeMedicos()
+
+/*Agrega una sala al centro que se pasa como parámetro)*/
+public void agregarNuevaSala(Centro centro, int capacidad) 
+1.B.a 10 
+No implementado.
+
+/*Agrega el paciente al centro que se pasa como parámetro.  Suponemos que siempre hay espacio en alguna de las salas del centro. Pero no necesariamente en todas*/
+public void agregarPaciente(Centro centro, Paciente paciente); 
+1.B.b 15 
+No implementado.
+
+/* Retorna la suma de los médicos de todos los centros*/
+public int cantidadDeMedicos(); 
+1.B.c 20 
+No implementado.
+
+/* Retorna el total de los Centros de Aislamiento*/ 
+public int totalCentroAislamiento(); 
+No implementado.
+1.B.d 20 
+
+/* Retorna una colección con todas las salas llenas. Una sala está llena si col.size() >= capacidadMaxima de la sala */
+public Vector<Sala> salasLlenas() 
+2.A 15 
+No implementado.
+
+
+--------------------------------------
+2 19011/1 MAROS ALEJO presente (77,5)
+--------------------------------------
+RESULTADO:APROBADO
+PARCIALITO: APROBADO
+
+1.A 20 (20)
+OK
+
+/*Agrega una sala al centro que se pasa como parámetro)*/
+public void agregarNuevaSala(Centro centro, int capacidad) 
+1.B.a 10 (10)
+OK.
+
+/*Agrega el paciente al centro que se pasa como parámetro.  Suponemos que siempre hay espacio en alguna de las salas del centro. Pero no necesariamente en todas*/
+public void agregarPaciente(Centro centro, Paciente paciente); 
+1.B.b 15 (7,5)
++/-
+La evaluacion de si la sala esta llena debe ser de la sala  y no estar en la
+logica del Centro. 
+Se agrega el paciente a varias Salas. No hay corte en el bucle.
+
+/* Retorna la suma de los médicos de todos los centros*/
+public int cantidadDeMedicos(); 
+1.B.c 20 (20)
+OK
+
+/* Retorna el total de los Centros de Aislamiento*/ 
+public int totalCentroAislamiento(); 
+1.B.d 20 (20)
+OK
+
+/* Retorna una colección con todas las salas llenas. Una sala está llena si col.size() >= capacidadMaxima de la sala */
+public Vector<Sala> salasLlenas() 
+2.A 15 
+
+-----------------------------------------
+4 19189/2 SANTORO LAUREANO presente (70)
+--------------------------------------
+
+RESULTADO: APROBADO
+PARCIALITO: DESAPROBADO
+
+1.A 20 (20)
+OK
+
+/*Agrega una sala al centro que se pasa como parámetro)*/
+public void agregarNuevaSala(Centro centro, int capacidad) 
+1.B.a 10 (10)
+OK
+
+/*Agrega el paciente al centro que se pasa como parámetro.  Suponemos que siempre hay espacio en alguna de las salas del centro. Pero no necesariamente en todas*/
+public void agregarPaciente(Centro centro, Paciente paciente); 
+1.B.b 15 (10)
+-/+
+El espacio debe ser evaluado con true.
+if (x.espacio()==false)
+
+/* Retorna la suma de los médicos de todos los centros*/
+public int cantidadDeMedicos(); 
+1.B.c 20 (20)
+OK
+
+/* Retorna el total de los Centros de Aislamiento*/ 
+public int totalCentroAislamiento(); 
+1.B.d 20 (20)
+No implementado
+
+/* Retorna una colección con todas las salas llenas. Una sala está llena si col.size() >= capacidadMaxima de la sala */
+public Vector<Sala> salasLlenas() 
+2.A 15 (10)
++/-
+Debe ser una responsabilidad de la sala.
+
+for (Salas sala: salasCentro){
+        if (sala.estaLLena()){
+            salasLLenas.add(sala);
+        }
+    }
+
+
+--------------------------------------
+6 20374/1 TUNESI RENZO AGUSTIN presente (77,5)
+----------------------------------------
+RESULTADO: APROBADO
+PARCIALITO: APROBADO
+
+1.A 20 (20)
+OK
+
+/*Agrega una sala al centro que se pasa como parámetro)*/
+public void agregarNuevaSala(Centro centro, int capacidad) 
+1.B.a 10 (10)
+OK
+
+/*Agrega el paciente al centro que se pasa como parámetro.  Suponemos que siempre hay espacio en alguna de las salas del centro. Pero no necesariamente en todas*/
+public void agregarPaciente(Centro centro, Paciente paciente); 
+1.B.b 15 (7,5)
++/-
+La responsabilidad debe ser de la Sala y no del Centro.
+if(sala.tieneCapacidad()){
+   sala.agregarPaciente(pacientes);
+                
+/* Retorna la suma de los médicos de todos los centros*/
+public int cantidadDeMedicos(); 
+1.B.c 20 (20)
+OK
+
+/* Retorna el total de los Centros de Aislamiento*/ 
+public int totalCentroAislamiento(); 
+1.B.d 20 (20)
+OK
+
+/* Retorna una colección con todas las salas llenas. Una sala está llena si col.size() >= capacidadMaxima de la sala */
+public Vector<Sala> salasLlenas() 
+2.A 15 (10)
+
+
+
+-----------------------------------------
+7 20663/1 PEREZ MATIAS presente (85)
+-------------------------------------------
+RESULTADO: APROBADO
+
+1.A 20 (20)
+OK
+
+/*Agrega una sala al centro que se pasa como parámetro)*/
+public void agregarNuevaSala(Centro centro, int capacidad) 
+1.B.a 10 (10)
+OK
+
+/*Agrega el paciente al centro que se pasa como parámetro.  Suponemos que siempre hay espacio en alguna de las salas del centro. Pero no necesariamente en todas*/
+public void agregarPaciente(Centro centro, Paciente paciente); 
+1.B.b 15 (15)
+OK
+                
+/* Retorna la suma de los médicos de todos los centros*/
+public int cantidadDeMedicos(); 
+1.B.c 20 (20)
+OK
+
+/* Retorna el total de los Centros de Aislamiento*/ 
+public int totalCentroAislamiento(); 
+1.B.d 20 (20)
+OK
+
+/* Retorna una colección con todas las salas llenas. Una sala está llena si col.size() >= capacidadMaxima de la sala */
+public Vector<Sala> salasLlenas() 
+2.A 15 (10)
+
+
+
+--------------------
+8 20918/1 VIDELA CELESTE presente (85)
+--------------------
+RESULTADO: APROBADO
+
+1.A 20 (20)
+OK
+
+/*Agrega una sala al centro que se pasa como parámetro)*/
+public void agregarNuevaSala(Centro centro, int capacidad) 
+1.B.a 10 (10)
+OK
+
+/*Agrega el paciente al centro que se pasa como parámetro.  Suponemos que siempre hay espacio en alguna de las salas del centro. Pero no necesariamente en todas*/
+public void agregarPaciente(Centro centro, Paciente paciente); 
+1.B.b 15 (15)
+OK
+                
+/* Retorna la suma de los médicos de todos los centros*/
+public int cantidadDeMedicos(); 
+1.B.c 20 (20)
+OK
+
+/* Retorna el total de los Centros de Aislamiento*/ 
+public int totalCentroAislamiento(); 
+1.B.d 20 (20)
+OK
+
+/* Retorna una colección con todas las salas llenas. Una sala está llena si col.size() >= capacidadMaxima de la sala */
+public Vector<Sala> salasLlenas() 
+2.A 15 (10)
+
+
+------------------------------
+9 21190/6 JURE FACUNDO presente (77,5)
+.................................
+RESULTADO: APROBADO
+PARCIALITO: APROBADO
+
+1.A 20 (20)
+OK
+/*Agrega una sala al centro que se pasa como parámetro)*/
+public void agregarNuevaSala(Centro centro, int capacidad) 
+1.B.a 10 (10)
+OK
+
+/*Agrega el paciente al centro que se pasa como parámetro.  Suponemos que siempre hay espacio en alguna de las salas del centro. Pero no necesariamente en todas*/
+public void agregarPaciente(Centro centro, Paciente paciente); 
+1.B.b 15 (7,5)
+No corta el bucle.
+for(Sala sala : salas){
+           if(sala.tieneCapacidad()){
+               sala.agregarPaciente(pacientes);
+           }
+       }
+                
+/* Retorna la suma de los médicos de todos los centros*/
+public int cantidadDeMedicos(); 
+1.B.c 20 (20)
+OK
+
+/* Retorna el total de los Centros de Aislamiento*/ 
+public int totalCentroAislamiento(); 
+1.B.d 20 (20)
+OK
+
+/* Retorna una colección con todas las salas llenas. Una sala está llena si col.size() >= capacidadMaxima de la sala */
+public Vector<Sala> salasLlenas() 
+2.A 15 (10)
+
+
+------------------------------------------
+10 3444/2 MEDINA LUCAS SEBASTIAN ausente
+..........................................
+RESULTADO: DESAPROBADO
+No entrego parcial en la plataforma
+
+------------------------------------------
+11 sin definir BASCOY AGUSTÍN presente (85)
+------------------------------------------
+RESULTADO: APROBADO
+
+1.A 20 (20)
+OK
+
+/*Agrega una sala al centro que se pasa como parámetro)*/
+public void agregarNuevaSala(Centro centro, int capacidad) 
+1.B.a 10 (10)
+OK
+
+/*Agrega el paciente al centro que se pasa como parámetro.  Suponemos que siempre hay espacio en alguna de las salas del centro. Pero no necesariamente en todas*/
+public void agregarPaciente(Centro centro, Paciente paciente); 
+1.B.b 15 (10)
+OK
+                
+/* Retorna la suma de los médicos de todos los centros*/
+public int cantidadDeMedicos(); 
+1.B.c 20 (20)
+OK
+
+/* Retorna el total de los Centros de Aislamiento*/ 
+public int totalCentroAislamiento(); 
+1.B.d 20 (20)
+OK
+/* Retorna una colección con todas las salas llenas. Una sala está llena si col.size() >= capacidadMaxima de la sala */
+public Vector<Sala> salasLlenas() 
+2.A 15 (10)
+
+
+---------------------------------------------------------
+14 sin definir CABRERA ORDOÑEZ JEISON DAVID presente (85)
+---------------------------------------------------------
+RESULTADO: APROBADO
+
+1.A 20 (20)
+OK
+
+/*Agrega una sala al centro que se pasa como parámetro)*/
+public void agregarNuevaSala(Centro centro, int capacidad) 
+1.B.a 10 (10)
+OK
+
+/*Agrega el paciente al centro que se pasa como parámetro.  Suponemos que siempre hay espacio en alguna de las salas del centro. Pero no necesariamente en todas*/
+public void agregarPaciente(Centro centro, Paciente paciente); 
+1.B.b 15 (15)
+OK                
+/* Retorna la suma de los médicos de todos los centros*/
+public int cantidadDeMedicos(); 
+1.B.c 20 (20)
+OK
+
+/* Retorna el total de los Centros de Aislamiento*/ 
+public int totalCentroAislamiento(); 
+1.B.d 20 (20)
+OK
+
+/* Retorna una colección con todas las salas llenas. Una sala está llena si col.size() >= capacidadMaxima de la sala */
+public Vector<Sala> salasLlenas() 
+2.A 15 (10)
+
+
+------------------------------------------
+15 sin definir CAÑETE TOMÁS GERMAN ausente
+--------------------------------------------
+RESULTADO: DESAPROBADO
+No entrego el parcial en la plataforma.
+
+------------------------------------------------
+21 sin definir PAGANINI ALEJO ALBERTO ausente
+------------------------------------------------
+RESULTADO: DESAPROBADO
+No entrego el parcial en la plataforma.
+
+-----------------------------------
+23 sin definir REY NICOLÁS ESTEBAN ausente
+-----------------------------------
+RESULTADO: DESAPROBADO
+No entrego el parcial en la plataforma.
+
+-----------------------------------------
+16 sin definir FRANCO FRANCISCO ALEJO presente
+-----------------------------------------
+RESULTADO: APROBADO
+
+1.A 20 (20)
+OK
+/*Agrega una sala al centro que se pasa como parámetro)*/
+public void agregarNuevaSala(Centro centro, int capacidad) 
+1.B.a 10 (10)
+OK
+
+/*Agrega el paciente al centro que se pasa como parámetro.  Suponemos que siempre hay espacio en alguna de las salas del centro. Pero no necesariamente en todas*/
+public void agregarPaciente(Centro centro, Paciente paciente); 
+1.B.b 15 (15)
+OK
+
+/* Retorna la suma de los médicos de todos los centros*/
+public int cantidadDeMedicos(); 
+1.B.c 20 (20)
+OK
+
+/* Retorna el total de los Centros de Aislamiento*/ 
+public int totalCentroAislamiento(); 
+1.B.d 20 (20)
+OK
+
+/* Retorna una colección con todas las salas llenas. Una sala está llena si col.size() >= capacidadMaxima de la sala */
+public Vector<Sala> salasLlenas() 
+2.A 15 (10)
+OK
+
+
+-----------------------------------------
+ sin definir GALLICET MARTIN presente (77,5)
+-----------------------------------------
+RESULTADO: APROBADO
+
+1.A 20 (20)
+OK
+
+/*Agrega una sala al centro que se pasa como parámetro)*/
+public void agregarNuevaSala(Centro centro, int capacidad) 
+1.B.a 10 (10)
+OK
+
+/*Agrega el paciente al centro que se pasa como parámetro.  Suponemos que siempre hay espacio en alguna de las salas del centro. Pero no necesariamente en todas*/
+public void agregarPaciente(Centro centro, Paciente paciente); 
+1.B.b 15 (7,5)
+El bucle no finaliza.
+ for (CentroAislamiento centro: centrosDeAislamientos){
+            if (!centro.agregarPaciente(paciente)){
+                continue;
+            }
+        }
+/* Retorna la suma de los médicos de todos los centros*/
+public int cantidadDeMedicos(); 
+1.B.c 20 (20)
+OK
+
+/* Retorna el total de los Centros de Aislamiento*/ 
+public int totalCentroAislamiento(); 
+1.B.d 20 (20)
+OK
+
+/* Retorna una colección con todas las salas llenas. Una sala está llena si col.size() >= capacidadMaxima de la sala */
+public Vector<Sala> salasLlenas() 
+2.A 15 (10)
+
+
+--------------------------------------------------
+18 sin definir GODOY JUAN LUCAS presente (77,5)
+-------------------------------------------------
+RESULTADO: APROBADO
+
+1.A 20 (20)
+OK
+/*Agrega una sala al centro que se pasa como parámetro)*/
+public void agregarNuevaSala(Centro centro, int capacidad) 
+1.B.a 10 (10)
+OK
+
+/*Agrega el paciente al centro que se pasa como parámetro.  Suponemos que siempre hay espacio en alguna de las salas del centro. Pero no necesariamente en todas*/
+public void agregarPaciente(Centro centro, Paciente paciente); 
+1.B.b 15 (7,5)
+Debe ser responsabilidad de la Sala.
+   if (sala.capacidadDisponible() > 0){
+                sala.nuevoPaciente(paciente);
+                paciente.setSala(sala);
+                return true;
+            }
+/* Retorna la suma de los médicos de todos los centros*/
+public int cantidadDeMedicos(); 
+1.B.c 20 (20)
+OK
+/* Retorna el total de los Centros de Aislamiento*/ 
+public int totalCentroAislamiento(); 
+1.B.d 20 (20)
+OK
+/* Retorna una colección con todas las salas llenas. Una sala está llena si col.size() >= capacidadMaxima de la sala */
+public Vector<Sala> salasLlenas() 
+2.A 15 (10)
+
+
+----------------------------------------
+19 sin definir GOMEZ GASPAR ALBERTO presente (85)
+-----------------------------------------
+RESULTADO: APROBADO
+
+1.A 20 (20)
+OK
+
+/*Agrega una sala al centro que se pasa como parámetro)*/
+public void agregarNuevaSala(Centro centro, int capacidad) 
+1.B.a 10 (10)
+OK
+
+/*Agrega el paciente al centro que se pasa como parámetro.  Suponemos que siempre hay espacio en alguna de las salas del centro. Pero no necesariamente en todas*/
+public void agregarPaciente(Centro centro, Paciente paciente); 
+1.B.b 15 (15)
+OK
+
+/* Retorna la suma de los médicos de todos los centros*/
+public int cantidadDeMedicos(); 
+1.B.c 20 (20)
+OK
+
+/* Retorna el total de los Centros de Aislamiento*/ 
+public int totalCentroAislamiento(); 
+1.B.d 20 (20)
+OK
+
+/* Retorna una colección con todas las salas llenas. Una sala está llena si col.size() >= capacidadMaxima de la sala */
+public Vector<Sala> salasLlenas() 
+2.A 15 (10)
+
+
+-----------------------------------------
+20 sin definir OSTOICH YESICA ABIGAIL presente (77,5)
+-----------------------------------------
+RESULTADO: APROBADO
+
+1.A 20 (20)
+OK
+/*Agrega una sala al centro que se pasa como parámetro)*/
+public void agregarNuevaSala(Centro centro, int capacidad) 
+1.B.a 10 (10)
+OK
+
+/*Agrega el paciente al centro que se pasa como parámetro.  Suponemos que siempre hay espacio en alguna de las salas del centro. Pero no necesariamente en todas*/
+public void agregarPaciente(Centro centro, Paciente paciente); 
+1.B.b 15 (7,5)
+OK
+Se estan combinando dos responsabilidades en el mismo metodo.
+ for (Sala s: salas){
+            if (s.hayEspacio(paciente)){
+                break;
+            }
+        }
+
+/* Retorna la suma de los médicos de todos los centros*/
+public int cantidadDeMedicos(); 
+1.B.c 20 (20)
+OK
+
+/* Retorna el total de los Centros de Aislamiento*/ 
+public int totalCentroAislamiento(); 
+1.B.d 20 (20)
+OK
+
+/* Retorna una colección con todas las salas llenas. Una sala está llena si col.size() >= capacidadMaxima de la sala */
+public Vector<Sala> salasLlenas() 
+2.A 15 (10)
+
+
+----------------------------------------------
+22 sin definir RAIMUNDO FAUSTO SALVADOR presente (87,5)
+----------------------------------------------
+RESULTADO: APROBADO
+1.A 20 (20)
+OK
+
+/*Agrega una sala al centro que se pasa como parámetro)*/
+public void agregarNuevaSala(Centro centro, int capacidad) 
+1.B.a 10 (10)
+OK
+/*Agrega el paciente al centro que se pasa como parámetro.  Suponemos que siempre hay espacio en alguna de las salas del centro. Pero no necesariamente en todas*/
+public void agregarPaciente(Centro centro, Paciente paciente); 
+1.B.b 15 (7,5)
+Debe ser una responsabilidad de la Sala
+ for(Sala sala : salas){
+            if(sala.salaLlena()==false){
+                sala.agregarPaciente(p);
+                break;}
+        }
+
+/* Retorna la suma de los médicos de todos los centros*/
+public int cantidadDeMedicos(); 
+1.B.c 20 (20)
+OK
+/* Retorna el total de los Centros de Aislamiento*/ 
+public int totalCentroAislamiento(); 
+1.B.d 20 (20)
+OK
+
+/* Retorna una colección con todas las salas llenas. Una sala está llena si col.size() >= capacidadMaxima de la sala */
+public Vector<Sala> salasLlenas() 
+2.A 15 (10)
+Debe ser una responsabilidad de la Sala
+for(Sala s : salas)
+            if(s.salaLlena()==true)
+                salasLlenas.add(s);
+    }
+
+
+--------------------------------------------------
+24 sin definir RODRIGUEZ DAIANA ANDREA presente (77,5)
+--------------------------------------------------
+RESULTADO: APROBADO
+
+1.A 20 (20)
+OK
+
+/*Agrega una sala al centro que se pasa como parámetro)*/
+public void agregarNuevaSala(Centro centro, int capacidad) 
+1.B.a 10 (10)
+OK
+
+/*Agrega el paciente al centro que se pasa como parámetro.  Suponemos que siempre hay espacio en alguna de las salas del centro. Pero no necesariamente en todas*/
+public void agregarPaciente(Centro centro, Paciente paciente); 
+1.B.b 15 (7,5)
+Debe ser una responsabilidad de Sala
+ for(Sala s : salas){
+            if(s.espacioDisponible() == true){
+                s.agregarPaciente(paciente);
+            }
+        }
+
+/* Retorna la suma de los médicos de todos los centros*/
+public int cantidadDeMedicos(); 
+1.B.c 20 (20)
+OK
+/* Retorna el total de los Centros de Aislamiento*/ 
+public int totalCentroAislamiento(); 
+1.B.d 20 (20)
+OK
+
+/* Retorna una colección con todas las salas llenas. Una sala está llena si col.size() >= capacidadMaxima de la sala */
+public Vector<Sala> salasLlenas() 
+2.A 15 (10)
+
+
+--------------------------------------------------
+25 sin definir RUBIO HERNAN presente (85)
+--------------------------------------------------
+RESULTADO: APROBADO
+
+1.A 20 (20)
+OK
+/*Agrega una sala al centro que se pasa como parámetro)*/
+public void agregarNuevaSala(Centro centro, int capacidad) 
+1.B.a 10 (10)
+OK
+/*Agrega el paciente al centro que se pasa como parámetro.  Suponemos que siempre hay espacio en alguna de las salas del centro. Pero no necesariamente en todas*/
+public void agregarPaciente(Centro centro, Paciente paciente); 
+1.B.b 15 (15)
+OK
+/* Retorna la suma de los médicos de todos los centros*/
+public int cantidadDeMedicos(); 
+1.B.c 20 (20)
+OK
+/* Retorna el total de los Centros de Aislamiento*/ 
+public int totalCentroAislamiento(); 
+1.B.d 20 (20)
+OK
+/* Retorna una colección con todas las salas llenas. Una sala está llena si col.size() >= capacidadMaxima de la sala */
+public Vector<Sala> salasLlenas() 
+2.A 15 (10)
+
+
+--------------------------------------------------
+27 sin definir SPIATTA JUAN PABLO presente (77,5)
+--------------------------------------------------
+RESULTADO:APROBADO
+1.A 20 (20)
+OK
+
+/*Agrega una sala al centro que se pasa como parámetro)*/
+public void agregarNuevaSala(Centro centro, int capacidad) 
+1.B.a 10 (10)
+OK
+
+/*Agrega el paciente al centro que se pasa como parámetro.  Suponemos que siempre hay espacio en alguna de las salas del centro. Pero no necesariamente en todas*/
+public void agregarPaciente(Centro centro, Paciente paciente); 
+1.B.b 15 (7,5)
++/-
+Debe ser una responsabilidad de la Sala.
+ ListIterator<Sala> it = salas.listIterator();
+        while(it.hasNext())
+        {
+            Sala sala = it.next();
+            if(!sala.estaLlena())
+            {    
+                sala.agregaPaciente(paciente);
+                break;
+            }
+        }
+
+/* Retorna la suma de los médicos de todos los centros*/
+public int cantidadDeMedicos(); 
+1.B.c 20 (20)
+OK
+
+/* Retorna el total de los Centros de Aislamiento*/ 
+public int totalCentroAislamiento(); 
+1.B.d 20 (20)
+OK
+
+/* Retorna una colección con todas las salas llenas. Una sala está llena si col.size() >= capacidadMaxima de la sala */
+public Vector<Sala> salasLlenas() 
+2.A 15 (0)
+NO. Debe ser una responsabilidad de la Sala
+
+for(Centro centro : centrosDeAislamientos)
+        {
+            for(Sala sala : centro.verSalas())
+            {
+                salasLlenas.add(sala);
+            }
+        }
+
+--------------------------------------------------
+28 sin definir VELIZ ARON YURAH presente (77,5)
+--------------------------------------------------
+RESULTADO: APROBADO
+1.A 20 (20)
+OK
+/*Agrega una sala al centro que se pasa como parámetro)*/
+public void agregarNuevaSala(Centro centro, int capacidad) 
+1.B.a 10 (10)
+OK
+
+/*Agrega el paciente al centro que se pasa como parámetro.  Suponemos que siempre hay espacio en alguna de las salas del centro. Pero no necesariamente en todas*/
+public void agregarPaciente(Centro centro, Paciente paciente); 
+1.B.b 15 (7,5)
+Debe ser una responsabilidad de la Sala
+ for (Sala s:salas){
+            if (s.hayEspacio()){
+                s.agregarPaciente(paciente);
+                break;
+            }
+        }
+/* Retorna la suma de los médicos de todos los centros*/
+public int cantidadDeMedicos(); 
+1.B.c 20 (20)
+OK
+
+/* Retorna el total de los Centros de Aislamiento*/ 
+public int totalCentroAislamiento(); 
+1.B.d 20 (20)
+OK
+
+/* Retorna una colección con todas las salas llenas. Una sala está llena si col.size() >= capacidadMaxima de la sala */
+public Vector<Sala> salasLlenas() 
+2.A 15 (10)
+

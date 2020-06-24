@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=unaCapacidad
+comment0.target=void\ setCapacidadMaxima(int)
+comment1.params=
+comment1.target=int\ getCapacidadMaxima()
+comment2.params=
+comment2.target=boolean\ salaLlena()
+numComments=3

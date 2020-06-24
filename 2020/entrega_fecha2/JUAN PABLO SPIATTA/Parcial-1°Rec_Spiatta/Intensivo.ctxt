@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=nombre\ apellido\ edad\ dni\ n_matricula\ especialidad
+comment0.target=void\ agregaMedicos(java.lang.String,\ java.lang.String,\ int,\ long,\ int,\ java.lang.String)
+comment0.text=Como\ no\ especifica\ la\ cantidad\ maxima\ de\ medicos\ cree\ una\ coleccion\ HashSet\ sin\ limite
+comment1.params=
+comment1.target=int\ cantMedicos()
+numComments=2

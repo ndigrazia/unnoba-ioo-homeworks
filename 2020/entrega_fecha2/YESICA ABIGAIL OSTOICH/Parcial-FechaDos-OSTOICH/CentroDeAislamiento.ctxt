@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CentroDeAislamiento()
+comment1.params=nombre
+comment1.target=void\ setNombreDelCentro(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNombreDelCentro()
+comment3.params=
+comment3.target=int\ contarMedicos()
+numComments=4

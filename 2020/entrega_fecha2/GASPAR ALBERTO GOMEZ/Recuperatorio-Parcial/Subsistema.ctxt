@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ cantidadDeMedicos()
+comment0.text=Retorna\ la\ suma\ de\ los\ m\u00E9dicos\ de\ todos\ los\ centros
+comment1.params=
+comment1.target=int\ totalCentroAislamiento()
+comment1.text=Retorna\ el\ total\ de\ los\ Centros\ de\ Aislamiento
+numComments=2

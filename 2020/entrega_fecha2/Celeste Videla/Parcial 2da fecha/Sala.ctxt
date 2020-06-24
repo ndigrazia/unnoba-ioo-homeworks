@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=capacidad
+comment0.target=void\ setCapacidad(int)
+comment1.params=
+comment1.target=int\ getCapacidad()
+numComments=2

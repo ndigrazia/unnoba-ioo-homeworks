@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ getEspecialidad()
+comment1.params=e
+comment1.target=void\ setEspecialidad(java.lang.String)
+comment2.params=
+comment2.target=int\ getMatricula()
+comment3.params=m
+comment3.target=void\ setMatricula(int)
+numComments=4

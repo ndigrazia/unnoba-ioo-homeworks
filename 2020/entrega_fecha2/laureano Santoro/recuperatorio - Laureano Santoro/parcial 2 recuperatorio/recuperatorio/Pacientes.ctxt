@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=fechaIngreso
+comment0.target=void\ setfechaIngreso(java.util.Date)
+comment1.params=
+comment1.target=java.util.Date\ getfechaIngreso()
+numComments=2

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Medico()
+comment1.params=matricula
+comment1.target=void\ setMatricula(int)
+comment2.params=
+comment2.target=int\ getMatricula()
+comment3.params=especialidad
+comment3.target=void\ setEspecialidad(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getEspecialidad()
+numComments=5

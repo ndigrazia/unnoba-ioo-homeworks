@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=AislamientoIntensivo()
+comment1.params=
+comment1.target=int\ cantidadDeMedicos()
+comment1.text=Retorna\ la\ suma\ de\ los\ m\u00E9dicos\ de\ todos\ los\ centros
+numComments=2

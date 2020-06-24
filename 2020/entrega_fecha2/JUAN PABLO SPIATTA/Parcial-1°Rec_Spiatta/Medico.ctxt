@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=nombre\ apellido\ edad\ dni\ n_matricula\ especialidad
+comment0.target=Medico(java.lang.String,\ java.lang.String,\ int,\ long,\ int,\ java.lang.String)
+comment1.params=
+comment1.target=int\ getN_matricula()
+comment2.params=
+comment2.target=java.lang.String\ getEspecialidad()
+numComments=3

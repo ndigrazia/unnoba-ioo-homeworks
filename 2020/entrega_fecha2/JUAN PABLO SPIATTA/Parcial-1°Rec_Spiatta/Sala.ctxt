@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=capacidad
+comment0.target=Sala(int)
+comment1.params=
+comment1.target=boolean\ estaLlena()
+comment2.params=
+comment2.target=void\ imprimePacientes()
+comment2.text=Este\ metodo\ lo\ cree\ para\ probar\ si\ agregaba\ pacientes\ correctamente
+numComments=3

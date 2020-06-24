@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=nombreLocalidad
+comment0.target=void\ setnombreLocalidad(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getnombreLocalidad()
+numComments=2

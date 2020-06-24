@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MinisterioSalud()
+comment1.params=
+comment1.target=int\ cantidadDeMedicos()
+comment2.params=
+comment2.target=int\ totalCentroAislamiento()
+comment3.params=
+comment3.target=int\ cantidadTotalSalas()
+comment3.text=Este\ metodo\ lo\ agregue\ para\ probar\ si\ funcionaba\ bien\ el\ de\ agregar\ salas,\ lo\ uso\ en\ la\ clase\ prueba
+numComments=4
