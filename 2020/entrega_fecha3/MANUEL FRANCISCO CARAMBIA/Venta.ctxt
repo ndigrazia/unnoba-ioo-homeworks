@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Venta
+comment1.params=
+comment1.target=Venta()
+comment10.params=
+comment10.target=double\ montoPago()
+comment11.params=
+comment11.target=int\ ventasContado()
+comment12.params=precio
+comment12.target=double\ monto(double)
+comment2.params=
+comment2.target=Vendedor\ getVendedor()
+comment3.params=vendedor
+comment3.target=void\ setVendedor(Vendedor)
+comment4.params=
+comment4.target=java.util.Date\ getFecha()
+comment5.params=fecha
+comment5.target=void\ setFecha(java.util.Date)
+comment6.params=
+comment6.target=Auto\ getAuto()
+comment7.params=auto
+comment7.target=void\ setAuto(Auto)
+comment8.params=
+comment8.target=Cliente\ getCliente()
+comment9.params=cliente
+comment9.target=void\ setClienteo(Cliente)
+numComments=13

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Cuota
+comment1.params=
+comment1.target=Cuota()
+comment2.params=
+comment2.target=double\ getCantCuotas()
+comment3.params=cantCuotas
+comment3.target=void\ setCantCuotas(double)
+comment4.params=precio
+comment4.target=double\ monto(double)
+comment5.params=
+comment5.target=int\ ventasContado()
+numComments=6

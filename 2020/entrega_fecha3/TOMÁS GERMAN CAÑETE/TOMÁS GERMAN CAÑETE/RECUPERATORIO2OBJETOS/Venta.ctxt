@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Venta
+comment1.params=fecha\ vendedor
+comment1.target=Venta(java.util.Date,\ Persona)
+comment2.params=fecha
+comment2.target=void\ setFecha(java.util.Date)
+comment3.params=vendedor
+comment3.target=void\ setVendedor(Persona)
+comment4.params=
+comment4.target=Persona\ getVendedor()
+comment5.params=
+comment5.target=java.util.Date\ getFecha()
+comment6.params=
+comment6.target=int\ getCantidadCuotas()
+comment7.params=
+comment7.target=double\ getAPagar()
+numComments=8

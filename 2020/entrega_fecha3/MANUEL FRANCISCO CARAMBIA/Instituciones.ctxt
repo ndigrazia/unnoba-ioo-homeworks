@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Instituciones
+comment1.params=
+comment1.target=Instituciones()
+comment2.params=precio
+comment2.target=double\ montoCliente(double)
+numComments=3

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Contado
+comment1.params=fecha\ vendedor
+comment1.target=Contado(java.util.Date,\ Persona)
+comment2.params=
+comment2.target=int\ getCantidadCuotas()
+numComments=3

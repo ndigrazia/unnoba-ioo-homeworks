@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Auto
+comment1.params=marca\ modelo\ preciobase
+comment1.target=Auto(java.lang.String,\ java.lang.String,\ double)
+comment2.params=marca
+comment2.target=void\ setMarca(java.lang.String)
+comment3.params=modelo
+comment3.target=void\ setModelo(java.lang.String)
+comment4.params=preciobase
+comment4.target=void\ setPrecioBase(double)
+comment5.params=
+comment5.target=java.lang.String\ getMarca()
+comment6.params=
+comment6.target=java.lang.String\ getModelo()
+comment7.params=
+comment7.target=double\ getPrecioBase()
+comment8.params=
+comment8.target=double\ getPrecioTotal()
+numComments=9

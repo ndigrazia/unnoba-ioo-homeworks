@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Especiales
+comment1.params=
+comment1.target=Especiales()
+comment2.params=
+comment2.target=double\ getDescuento()
+comment3.params=descuento
+comment3.target=void\ setDescuento(double)
+comment4.params=
+comment4.target=double\ valorAuto()
+numComments=5

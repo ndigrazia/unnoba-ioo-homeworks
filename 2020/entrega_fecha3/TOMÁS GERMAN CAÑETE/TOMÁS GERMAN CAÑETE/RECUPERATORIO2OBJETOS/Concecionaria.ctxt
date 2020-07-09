@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Concecionaria
+comment1.params=nombre\ gerente
+comment1.target=Concecionaria(java.lang.String,\ Gerente)
+comment10.params=
+comment10.target=int\ cantidadVentasAlContado()
+comment2.params=nombre
+comment2.target=void\ setNombre(java.lang.String)
+comment3.params=gerente
+comment3.target=void\ setGerente(Gerente)
+comment4.params=
+comment4.target=Gerente\ getGerente()
+comment5.params=
+comment5.target=java.lang.String\ getNombre()
+comment6.params=venta
+comment6.target=double\ montoAPagarDe(Venta)
+comment7.params=contado
+comment7.target=void\ addVentaContado(Contado)
+comment8.params=cuotas
+comment8.target=void\ addVentaCuotas(Cuotas)
+comment9.params=
+comment9.target=double\ montoTotalAPagar()
+numComments=11
