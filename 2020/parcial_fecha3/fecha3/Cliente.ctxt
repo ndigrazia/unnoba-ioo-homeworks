@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Cliente()
+comment1.params=
+comment1.target=java.lang.String\ getNumero()
+comment2.params=numero
+comment2.target=void\ setNumero(java.lang.String)
+comment3.params=monto
+comment3.target=float\ aplicarDescuento(float)
+numComments=4

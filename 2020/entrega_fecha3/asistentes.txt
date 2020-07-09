@@ -1,0 +1,81 @@
+MANUEL FRANCISCO CARAMBIA (70)
+APROBADO
+
+a. DIAGRAMA DE CLASE
+OK.
+30
+-Las clases deben ser nombradas en singular.
+-Los atributos deben comenzar con minuscula.
+
+b.1 public double montoAPagarDe(Venta venta) 
+OK
+10
+
+b.2 public double montoTotalAPagar()
+OK
+20
+
+b.3 public int cantidadVentasAlContado() 
+-Se podria implementar pasando un entero al metodo ventasContado() y luego
+en cada venta sumarle 1 o no; La implementación usa un pensamiento estructurado. 
+Existieron varios ejemplos en la practica y parciales anteriores de como
+implementar el metodo.
++/-
+10
+
+c.1 public Vector<Venta> collectVentasAlContado() 
+NO.
+-Se combino una responsabilidad en cantidadVentasAlContado() que es propia de la
+operación collectVentasAlContado(). Es decir, el Vector ventasAlContado debe crearse 
+en el metodo collectVentasAlContado() y no ser global a la clase.
+
+
+TOMÁS GERMAN CAÑETE
+DESAPROBADO.
+
+a. DIAGRAMA DE CLASE
+-Las clases deben ser nombradas en singular.
+-Falta la clase Particular.
+-Falta la relación de herrencia entre la clase Particular, Intitucion y Cliente.
+-Concecionaria debe tener una unica relación de colección con la clase Venta.No deben 
+existir las colecciones ventasalcontado y ventasencuotas.
+  public void addVentaContado(Contado contado){
+    ventasalcontado.add(contado);
+    ventastotales.add(contado);
+    }
+    public void addVentaCuotas(Cuotas cuotas){
+    ventasencuotas.add(cuotas);
+    ventastotales.add(cuotas);
+    }
+- La clase Cliente no debe tener una relación de asociación con la clase Institución.
+- No se debe usar el atributo  espersona para saber si es una persona particular o una
+institución. Se debe usar polimorfismo.
+- Falta el concepto de descuento en el auto de tipo Especial. Semanticamente no esta reflejada
+la necesidad indicada en el examen para la clase Especial.
+- Al no tener la herencia entre las clases Particular, Intitucion y Cliente, no puede resolver
+polimosficamente el descuento necesario para poder calcular el monto total de la venta.
+- La cantidad de cuotas es de la clase Cuota y no de la clase Ventas. Las ventas al contado no deben tener semanticamente la cantidad de cuotas.
+- No aplico polimosfismo para calcular el ajuste de la venta. Uso pensamiento estructurado.
+     public double getAPagar()
+     {
+        double apagar=auto.getPrecioTotal();
+        if (cliente.getEsPersona()==false)
+        {
+            apagar-=apagar*0.10;
+        }
+        apagar+=apagar*(0.05*getCantidadCuotas());
+     return apagar;
+NO.
+
+b.1 public double montoAPagarDe(Venta venta) 
+NO. Como esta plateado el modelo no puede resolver esta funcionalidad.
+
+b.2 public double montoTotalAPagar()
+NO. Como esta plateado el modelo no puede resolver esta funcionalidad.
+
+b.3 public int cantidadVentasAlContado() 
+OK. Sin embargo, no deberia tener varias colecciones de Ventas.
+
+c.1 public Vector<Venta> collectVentasAlContado() 
+NO esta implementado.
+

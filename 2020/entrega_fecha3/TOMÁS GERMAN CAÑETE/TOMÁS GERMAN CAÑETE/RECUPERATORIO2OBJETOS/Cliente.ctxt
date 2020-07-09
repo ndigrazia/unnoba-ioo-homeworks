@@ -1,17 +1,8 @@
 #BlueJ class context
-comment0.target=Cliente
+comment0.params=IDcliente
+comment0.target=Cliente(int)
 comment1.params=IDcliente
-comment1.target=Cliente(int)
-comment2.params=IDcliente
-comment2.target=void\ setIDCliente(int)
-comment3.params=institucion
-comment3.target=void\ addInstitucion(Institucion)
-comment4.params=persona
-comment4.target=void\ addPersona(Persona)
-comment5.params=
-comment5.target=Persona\ getPersona()
-comment6.params=
-comment6.target=Institucion\ getInstitucion()
-comment7.params=
-comment7.target=boolean\ getEsPersona()
-numComments=8
+comment1.target=void\ setIDCliente(int)
+comment2.params=
+comment2.target=boolean\ getEsPersona()
+numComments=3

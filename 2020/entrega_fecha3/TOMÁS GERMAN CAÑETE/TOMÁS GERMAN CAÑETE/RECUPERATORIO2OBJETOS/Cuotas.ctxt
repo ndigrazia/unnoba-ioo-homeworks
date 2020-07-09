@@ -1,9 +1,6 @@
 #BlueJ class context
-comment0.target=Cuotas
-comment1.params=fecha\ vendedor
-comment1.target=Cuotas(java.util.Date,\ Persona)
-comment2.params=cuotas
-comment2.target=void\ setCantidadCuotas(int)
-comment3.params=
-comment3.target=int\ getCantidadCuotas()
-numComments=4
+comment0.params=cuotas
+comment0.target=void\ setCantidadCuotas(int)
+comment1.params=
+comment1.target=int\ getCantidadCuotas()
+numComments=2

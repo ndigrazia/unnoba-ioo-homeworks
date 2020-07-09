@@ -1,7 +1,6 @@
 #BlueJ class context
-comment0.target=GamaMedia
+comment0.params=
+comment0.target=GamaMedia()
 comment1.params=
-comment1.target=GamaMedia()
-comment2.params=
-comment2.target=double\ valorAuto()
-numComments=3
+comment1.target=double\ valorAuto()
+numComments=2

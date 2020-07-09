@@ -1,13 +1,12 @@
 #BlueJ class context
-comment0.target=Institucion
-comment1.params=nombre\ CUIT
-comment1.target=Institucion(java.lang.String,\ int)
-comment2.params=nombre
-comment2.target=void\ setNombre(java.lang.String)
-comment3.params=CUIT
-comment3.target=void\ setCUIT(int)
+comment0.params=nombre\ CUIT
+comment0.target=Institucion(java.lang.String,\ int)
+comment1.params=nombre
+comment1.target=void\ setNombre(java.lang.String)
+comment2.params=CUIT
+comment2.target=void\ setCUIT(int)
+comment3.params=
+comment3.target=int\ getCUIT()
 comment4.params=
-comment4.target=int\ getCUIT()
-comment5.params=
-comment5.target=java.lang.String\ getNombre()
-numComments=6
+comment4.target=java.lang.String\ getNombre()
+numComments=5

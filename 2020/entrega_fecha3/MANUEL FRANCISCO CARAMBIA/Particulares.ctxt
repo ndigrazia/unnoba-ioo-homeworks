@@ -1,7 +1,6 @@
 #BlueJ class context
-comment0.target=Particulares
-comment1.params=
-comment1.target=Particulares()
-comment2.params=precio
-comment2.target=double\ montoCliente(double)
-numComments=3
+comment0.params=
+comment0.target=Particulares()
+comment1.params=precio
+comment1.target=double\ montoCliente(double)
+numComments=2

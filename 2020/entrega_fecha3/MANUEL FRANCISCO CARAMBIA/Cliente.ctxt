@@ -1,15 +1,14 @@
 #BlueJ class context
-comment0.target=Cliente
+comment0.params=
+comment0.target=Cliente()
 comment1.params=
-comment1.target=Cliente()
+comment1.target=int\ getNumerCliente()
 comment2.params=
-comment2.target=int\ getNumerCliente()
+comment2.target=void\ setNumeroCliente()
 comment3.params=
-comment3.target=void\ setNumeroCliente()
-comment4.params=
-comment4.target=double\ getDescuento()
-comment5.params=descuento
-comment5.target=void\ setDescuento(double)
-comment6.params=precio
-comment6.target=double\ montoCliente(double)
-numComments=7
+comment3.target=double\ getDescuento()
+comment4.params=descuento
+comment4.target=void\ setDescuento(double)
+comment5.params=precio
+comment5.target=double\ montoCliente(double)
+numComments=6

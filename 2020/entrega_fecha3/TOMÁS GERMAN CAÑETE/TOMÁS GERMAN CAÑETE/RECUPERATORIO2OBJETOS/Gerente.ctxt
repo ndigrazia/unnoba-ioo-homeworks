@@ -1,5 +1,4 @@
 #BlueJ class context
-comment0.target=Gerente
-comment1.params=nombre\ edad\ localidad
-comment1.target=Gerente(java.lang.String,\ int,\ java.lang.String)
-numComments=2
+comment0.params=nombre\ edad\ localidad
+comment0.target=Gerente(java.lang.String,\ int,\ java.lang.String)
+numComments=1

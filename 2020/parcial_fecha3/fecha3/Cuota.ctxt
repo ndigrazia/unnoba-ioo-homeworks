@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Cuota()
+comment1.params=
+comment1.target=int\ getCantidad()
+comment2.params=cantidad
+comment2.target=void\ setCantidad(int)
+comment3.params=monto
+comment3.target=float\ ajustarMonto(float)
+comment4.params=t
+comment4.target=int\ sumarContado(int)
+comment5.params=contados
+comment5.target=void\ agregarContado(java.util.Vector)
+numComments=6
