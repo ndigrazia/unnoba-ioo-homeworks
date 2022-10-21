@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Temperatura()
+comment1.params=rankine
+comment1.target=void\ setRankine(float)
+comment2.params=
+comment2.target=float\ getRankine()
+comment3.params=celsius
+comment3.target=void\ setCelsius(float)
+comment4.params=
+comment4.target=float\ getCelsius()
+numComments=5

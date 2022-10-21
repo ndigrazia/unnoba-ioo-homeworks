@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Pagina()
+comment1.params=url
+comment1.target=void\ setUrl(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getUrl()
+comment3.params=html
+comment3.target=void\ setHtml(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getHtml()
+comment5.params=fechaVisita
+comment5.target=void\ setFechaVisita(java.util.Date)
+comment6.params=
+comment6.target=java.util.Date\ getFechaVisita()
+numComments=7

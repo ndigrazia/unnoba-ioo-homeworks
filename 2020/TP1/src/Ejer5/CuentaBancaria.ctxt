@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=titular\ maxExt
+comment0.target=CuentaBancaria(java.lang.String,\ int)
+comment1.params=titular
+comment1.target=CuentaBancaria(java.lang.String)
+comment10.params=
+comment10.target=float\ getSaldo()
+comment2.params=
+comment2.target=int\ getMaxExtracciones()
+comment3.params=maxExtracciones
+comment3.target=void\ setMaxExtracciones(int)
+comment4.params=
+comment4.target=java.lang.String\ getTitular()
+comment5.params=titular
+comment5.target=void\ setTitular(java.lang.String)
+comment6.params=
+comment6.target=java.util.Date\ getFechaCreacion()
+comment7.params=fechaCreacion
+comment7.target=void\ setFechaCreacion(java.util.Date)
+comment8.params=monto
+comment8.target=void\ depositar(float)
+comment9.params=monto
+comment9.target=void\ extraer(float)
+numComments=11

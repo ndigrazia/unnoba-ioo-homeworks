@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=sujeto
+comment0.target=void\ actualizar(Sujeto)
+comment1.params=s
+comment1.target=void\ addMovimiento(Sensor)
+comment2.params=
+comment2.target=java.util.Iterator\ getMovimientos()
+comment3.params=s
+comment3.target=void\ addSensor(Sensor)
+comment4.params=s
+comment4.target=void\ removeSensor(Sensor)
+comment5.params=
+comment5.target=void\ activar()
+comment6.params=
+comment6.target=void\ desactivar()
+numComments=7

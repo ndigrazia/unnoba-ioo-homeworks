@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Browser()
+comment1.params=pagina
+comment1.target=void\ setPaginaActual(Pagina)
+comment2.params=
+comment2.target=Pagina\ getPaginaActual()
+comment3.params=url
+comment3.target=void\ agregarFavoritos(java.lang.String)
+comment4.params=url
+comment4.target=void\ removerFavoritos(java.lang.String)
+comment5.params=pagina
+comment5.target=void\ agregarHistorial(Pagina)
+comment6.params=pagina
+comment6.target=void\ removerHistorial(Pagina)
+comment7.params=
+comment7.target=void\ borrarHistorial()
+comment8.params=
+comment8.target=int\ cantidadPaginasVisitadas()
+comment9.params=
+comment9.target=Pagina\ ultimaPaginaVisitada()
+numComments=10

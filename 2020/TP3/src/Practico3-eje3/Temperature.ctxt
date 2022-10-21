@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Temperature()
+comment1.params=celsius
+comment1.target=void\ setCelsius(float)
+comment2.params=
+comment2.target=float\ getCelsius()
+numComments=3
