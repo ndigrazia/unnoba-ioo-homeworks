@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=AireAcondicionado
+comment1.params=
+comment1.target=void\ encender()
+comment2.params=
+comment2.target=void\ apagar()
+comment3.params=
+comment3.target=void\ subirTemperatura()
+comment4.params=
+comment4.target=void\ bajarTemperatura()
+comment5.params=nuevoModo
+comment5.target=void\ cambiarModo(java.lang.String)
+numComments=6

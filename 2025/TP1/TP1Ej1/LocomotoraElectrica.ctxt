@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=LocomotoraElectrica
+comment1.params=
+comment1.target=java.lang.String\ getMarca()
+comment2.params=marca
+comment2.target=void\ setMarca(java.lang.String)
+comment3.params=
+comment3.target=int\ getPotencia()
+comment4.params=potencia
+comment4.target=void\ setPotencia(int)
+comment5.params=
+comment5.target=double\ getVelocidadMaxima()
+comment6.params=velocidadMaxima
+comment6.target=void\ setVelocidadMaxima(double)
+comment7.params=
+comment7.target=boolean\ isEnMarcha()
+comment8.params=
+comment8.target=void\ arrancar()
+comment9.params=
+comment9.target=void\ detener()
+numComments=10
