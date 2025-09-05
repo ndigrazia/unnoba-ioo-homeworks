@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Tarea
+comment1.params=
+comment1.target=java.util.Date\ getVencimiento()
+comment2.params=vencimiento
+comment2.target=void\ setVencimiento(java.util.Date)
+comment3.params=
+comment3.target=int\ getPrioridad()
+comment4.params=prioridad
+comment4.target=void\ setPrioridad(int)
+comment5.params=
+comment5.target=Persona\ getResponsable()
+comment6.params=responsable
+comment6.target=void\ setResponsable(Persona)
+comment7.params=
+comment7.target=java.lang.String\ getDescripcion()
+comment8.params=descripcion
+comment8.target=void\ setDescripcion(java.lang.String)
+numComments=9

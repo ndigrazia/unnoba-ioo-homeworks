@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Museo
+comment1.params=nombre\ direccion\ ciudad\ director
+comment1.target=Museo(java.lang.String,\ java.lang.String,\ java.lang.String,\ Persona)
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment3.params=nombre
+comment3.target=void\ setNombre(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getDireccion()
+comment5.params=direccion
+comment5.target=void\ setDireccion(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getCiudad()
+comment7.params=ciudad
+comment7.target=void\ setCiudad(java.lang.String)
+comment8.params=
+comment8.target=Persona\ getDirector()
+comment9.params=director
+comment9.target=void\ setDirector(Persona)
+numComments=10

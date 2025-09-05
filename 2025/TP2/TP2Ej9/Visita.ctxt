@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Visita
+comment1.params=fechaVisita\ visitante\ museo\ obraDestacada
+comment1.target=Visita(java.util.Date,\ Persona,\ Museo,\ ObraDeArte)
+comment2.params=
+comment2.target=java.util.Date\ getFechaVisita()
+comment3.params=fechaVisita
+comment3.target=void\ setFechaVisita(java.util.Date)
+comment4.params=
+comment4.target=Persona\ getVisitante()
+comment5.params=visitante
+comment5.target=void\ setVisitante(Persona)
+comment6.params=
+comment6.target=Museo\ getMuseo()
+comment7.params=museo
+comment7.target=void\ setMuseo(Museo)
+comment8.params=
+comment8.target=ObraDeArte\ getObraDestacada()
+comment9.params=obraDestacada
+comment9.target=void\ setObraDestacada(ObraDeArte)
+numComments=10

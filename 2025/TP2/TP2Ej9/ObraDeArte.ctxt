@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=ObraDeArte
+comment1.params=titulo\ autor\ anioCreacion\ tipo
+comment1.target=ObraDeArte(java.lang.String,\ Persona,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getTitulo()
+comment3.params=titulo
+comment3.target=void\ setTitulo(java.lang.String)
+comment4.params=
+comment4.target=Persona\ getAutor()
+comment5.params=autor
+comment5.target=void\ setAutor(Persona)
+comment6.params=
+comment6.target=int\ getAnioCreacion()
+comment7.params=anioCreacion
+comment7.target=void\ setAnioCreacion(int)
+comment8.params=
+comment8.target=java.lang.String\ getTipo()
+comment9.params=tipo
+comment9.target=void\ setTipo(java.lang.String)
+numComments=10
