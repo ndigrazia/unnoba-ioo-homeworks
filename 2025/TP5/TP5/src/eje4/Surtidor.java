@@ -32,4 +32,7 @@ public abstract class Surtidor {
 	
 	public abstract float precioTotal(); 
 	
+	public void incrementarPrecio(float porcentaje) {
+		precioBasico += precioBasico * porcentaje / 100;
+	}
 }

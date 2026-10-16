@@ -32,5 +32,10 @@ public class Estacion {
         
         return tanques;
     }
+
+    public void incrementarPrecio(float porcentaje) {
+        for(Surtidor s:surtidores) 
+            s.incrementarPrecio(porcentaje);
+    }
     
 }
