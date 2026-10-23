@@ -3,7 +3,7 @@ package eje9;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Sujeto {
+public class Observado {
 
 	private List<Observador> observadores = new ArrayList<Observador>();
 	

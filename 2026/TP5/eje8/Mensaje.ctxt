@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=fechaCreacion\ texto
+comment0.target=Mensaje(java.util.Date,\ java.lang.String)
+comment1.params=
+comment1.target=java.util.Date\ getFechaCreacion()
+comment2.params=fechaCreacion
+comment2.target=void\ setFechaCreacion(java.util.Date)
+comment3.params=
+comment3.target=java.lang.String\ getTexto()
+comment4.params=texto
+comment4.target=void\ setTexto(java.lang.String)
+numComments=5

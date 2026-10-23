@@ -1,0 +1,58 @@
+import java.util.ArrayList;
+import java.util.GregorianCalendar;
+import java.util.Iterator;
+import java.util.List;
+
+public class Central extends Observador {
+
+    private List<Movimiento> movimientos = new ArrayList<Movimiento>();
+    private List<Sensor> sensores = new ArrayList<Sensor>();
+    
+    @Override
+    public void actualizar(Observado sujeto) {
+        addMovimiento((Sensor)sujeto);
+    }
+
+    private void addMovimiento(Sensor s) {
+        Movimiento m = new Movimiento();
+        
+        m.setSensor(s);
+        m.setFecha(GregorianCalendar.getInstance().getTime());
+        
+        cambiarEstadoSensorAEsperando(s);
+        
+        movimientos.add(m);
+    }
+    
+    public Iterator<Movimiento> getMovimientos() {
+        return movimientos.iterator();
+    }
+    
+    public void addSensor(Sensor s) {
+        sensores.add(s);
+        s.suscribir(this);
+    }
+    
+    public void removeSensor(Sensor s) {
+        sensores.remove(s);
+        s.quitar(this);
+    }
+
+    public void activar() {
+        for(Sensor s:sensores) {
+            s.setEstado(Sensor.ESTADO_ESPERANDO);
+        }
+    }
+
+    public void desactivar() {
+        for(Sensor s:sensores) {
+            s.setEstado(Sensor.ESTADO_APAGADO);
+        }
+    }   
+
+    public void cambiarEstadoSensorAEsperando(Sensor s) {   
+        s.setEstado(Sensor.ESTADO_ESPERANDO);
+    }
+    
+}
+
